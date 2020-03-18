@@ -1,0 +1,2337 @@
+﻿index,clean,location_raw,province,location_correct,source
+1,Abbotsford,Abbotsford,BC,Abbotsford,CSD
+2,Abercorn,Abercorn,QC,Abercorn,CSD
+3,Abitibi,Abitibi,QC,Abitibi,Manual
+4,Abitibi Ouest,Abitibi Ouest,QC,Abitibi-Ouest,Manual
+5,Acadieville,Acadieville,NB,Acadieville,CSD
+6,Acton,Acton,ON,Acton,Manual
+7,Acton,Acton,QC,Acton,Manual
+8,Acton Vale,Acton Vale,QC,Acton Vale,CSD
+9,Addington Highlands,Addington Highlands,ON,Addington Highlands,Manual
+10,Adstock,Adstock,QC,Adstock,CSD
+11,Agassiz,Agassiz,BC,Agassiz,Manual
+12,Aguanish,Aguanish,QC,Aguanish,CSD
+13,Ainsworth Hot Springs,Ainsworth Hot Springs,BC,Ainsworth Hot Springs,Manual
+14,Airdrie,Airdrie,AB,Airdrie,CSD
+15,Ajax,Ajax,ON,Ajax,CSD
+16,Akulivik,Akulivik,QC,Akulivik,CSD
+17,Akwesasne,Akwesasne,QC,Akwesasne,CSD
+18,Akwesasne,Akwesasne,ON,Akwesasne,CSD
+19,Albanel,Albanel,QC,Albanel,CSD
+20,Alberton,Alberton,ON,Alberton,Manual
+21,Albertville,Albertville,QC,Albertville,CSD
+22,Alderville,Alderville,ON,Alderville,Manual
+23,Alderville First Nation,Alderville First Nation,ON,Alderville First Nation,CSD
+24,Alfred and Plantagenet,Alfred and Plantagenet,ON,Alfred and Plantagenet,CSD
+25,Algoma,Algoma,ON,Algoma,Manual
+26,Algonquin Highlands,Algonquin Highlands,ON,Algonquin Highlands,CSD
+27,Alix,Alix,AB,Alix,CSD
+28,Allan,Allan,SK,Allan,CSD
+29,Allenford,Allenford,ON,Allenford,Manual
+30,Alliston,Alliston,ON,Alliston,Manual
+31,Alma,Alma,QC,Alma,CSD
+32,Altona,Altona,MB,Altona,CSD
+33,Alvinston,Alvinston,ON,Alvinston,Manual
+34,Amaranth,Amaranth,ON,Amaranth,CSD
+35,Amherst,Amherst,NS,Amherst,CSD
+36,Amherst,Amherst,QC,Amherst,CSD
+37,Amherstburg,Amherstburg,ON,Amherstburg,CSD
+38,Amos,Amos,QC,Amos,CSD
+39,Amqui,Amqui,QC,Amqui,CSD
+40,Ancaster,Ancaster,ON,Ancaster,Manual
+41,Ange Gardien,Ange-Gardien,QC,Ange-Gardien,CSD
+42,Angliers,Angliers,QC,Angliers,CSD
+43,Angus,Angus,ON,Angus,Manual
+44,Anmore,Anmore,BC,Anmore,CSD
+45,Annapolis Royal,Annapolis Royal,NS,Annapolis Royal,CSD
+46,Anson,Anson,ON,Anson,Manual
+47,Anstruther,Anstruther,ON,Anstruther,Manual
+48,Antigonish,Antigonish,NS,Antigonish,CSD
+49,Anzac,Anzac,AB,Anzac,PC
+50,Arcola,Arcola,SK,Arcola,CSD
+51,Ardrossan,Ardrossan,AB,Ardrossan,Manual
+52,Argenteuil,Argenteuil,QC,Argenteuil,Manual
+53,Arkona,Arkona,ON,Arkona,PC
+54,Armagh,Armagh,QC,Armagh,CSD
+55,Armena,Armena,AB,Armena,Manual
+56,Armstrong,Armstrong,BC,Armstrong,CSD
+57,Armstrong,Armstrong,ON,Armstrong,CSD
+58,Arnprior,Arnprior,ON,Arnprior,CSD
+59,Arran,Arran,ON,Arran,Manual
+60,Arthabaska,Arthabaska,QC,Arthabaska,Manual
+61,Arundel,Arundel,QC,Arundel,CSD
+62,Arviat,Arviat,NU,Arviat,CSD
+63,Asbestos,Asbestos,QC,Asbestos,CSD
+64,Ascot Corner,Ascot Corner,QC,Ascot Corner,CSD
+65,Ashmont,Ashmont,AB,Ashmont,PC
+66,Asquith,Asquith,SK,Asquith,CSD
+67,Assiniboia,Assiniboia,SK,Assiniboia,CSD
+68,Aston Jonction,Aston-Jonction,QC,Aston-Jonction,CSD
+69,Athabasca,Athabasca,AB,Athabasca,CSD
+70,Athens,Athens,ON,Athens,CSD
+71,Atikokan,Atikokan,ON,Atikokan,CSD
+72,Auclair,Auclair,QC,Auclair,CSD
+73,Audet,Audet,QC,Audet,CSD
+74,Augusta,Augusta,ON,Augusta,CSD
+75,Aumond,Aumond,QC,Aumond,CSD
+76,Aupaluk,Aupaluk,QC,Aupaluk,CSD
+77,Aurora,Aurora,ON,Aurora,CSD
+78,Austin,Austin,QC,Austin,CSD
+79,Authier,Authier,QC,Authier,CSD
+80,Authier Nord,Authier-Nord,QC,Authier-Nord,CSD
+81,Avignon,Avignon,QC,Avignon,Manual
+82,Ayer's Cliff,Ayer's Cliff,QC,Ayer's Cliff,CSD
+83,Aylmer,Aylmer,ON,Aylmer,CSD
+84,Ayr,Ayr,ON,Ayr,Manual
+85,Baie d'Hudson,Baie d'Hudson,QC,Baie-d'Hudson,CSD
+86,Baie D'Urfe,Baie D'Urfe,QC,Baie-D'Urfé,CSD
+87,Baie Trinite,Baie Trinite,QC,Baie-Trinité,Manual
+88,Baie Comeau,Baie-Comeau,QC,Baie-Comeau,CSD
+89,Baie des Sables,Baie-des-Sables,QC,Baie-des-Sables,CSD
+90,Baie du Febvre,Baie-du-Febvre,QC,Baie-du-Febvre,CSD
+91,Baie Johan Beetz,Baie-Johan-Beetz,QC,Baie-Johan-Beetz,CSD
+92,Baie Sainte Catherine,Baie-Sainte-Catherine,QC,Baie-Sainte-Catherine,CSD
+93,Baie Saint Paul,Baie-Saint-Paul,QC,Baie-Saint-Paul,CSD
+94,Balcarres,Balcarres,SK,Balcarres,CSD
+95,Baldwin,Baldwin,ON,Baldwin,CSD
+96,Balfour,Balfour,BC,Balfour,PC
+97,Balgonie,Balgonie,SK,Balgonie,CSD
+98,Bancroft,Bancroft,ON,Bancroft,CSD
+99,Banff,Banff,AB,Banff,CSD
+100,Barkmere,Barkmere,QC,Barkmere,CSD
+101,Barnston Ouest,Barnston Ouest,QC,Barnston-Ouest,CSD
+102,Barnston Ouest,Barnston-Ouest,QC,Barnston-Ouest,CSD
+103,Barraute,Barraute,QC,Barraute,CSD
+104,Barrhead,Barrhead,AB,Barrhead,CSD
+105,Barrie,Barrie,ON,Barrie,CSD
+106,Barrington,Barrington,NS,Barrington,CSD
+107,Bashaw,Bashaw,AB,Bashaw,CSD
+108,Bathurst,Bathurst,NB,Bathurst,CSD
+109,Batiscan,Batiscan,QC,Batiscan,CSD
+110,Battleford,Battleford,SK,Battleford,CSD
+111,Bawlf,Bawlf,AB,Bawlf,CSD
+112,Bay Bulls,Bay Bulls,NL,Bay Bulls,CSD
+113,Bayfield,Bayfield,ON,Bayfield,PC
+114,Bayham,Bayham,ON,Bayham,Manual
+115,Beaconsfield,Beaconsfield,QC,Beaconsfield,CSD
+116,Beamsville,Beamsville,ON,Beamsville,Manual
+117,Bearn,Béarn,QC,Béarn,CSD
+118,Bearskin Lake,Bearskin Lake,ON,Bearskin Lake,CSD
+119,Beauce Sartigan,Beauce-Sartigan,QC,Beauce-Sartigan,Manual
+120,Beauceville,Beauceville,QC,Beauceville,CSD
+121,Beauharnois,Beauharnois,QC,Beauharnois,CSD
+122,Beaulac Garthby,Beaulac-Garthby,QC,Beaulac-Garthby,CSD
+123,Beaumont,Beaumont,AB,Beaumont,CSD
+124,Beaumont,Beaumont,QC,Beaumont,CSD
+125,Beausejour,Beausejour,MB,Beausejour,CSD
+126,Beaver Lake,Beaver Lake,AB,Beaver Lake,Manual
+127,Beaverdell,Beaverdell,BC,Beaverdell,PC
+128,Beaverlodge,Beaverlodge,AB,Beaverlodge,CSD
+129,Beaverton,Beaverton,ON,Beaverton,Manual
+130,Becancour,Bécancour,QC,Bécancour,CSD
+131,Beckwith,Beckwith,ON,Beckwith,CSD
+132,Bedeque,Bedeque,PE,Bedeque,Manual
+133,Bedford,Bedford,QC,Bedford,CSD
+134,Beeton,Beeton,ON,Beeton,Manual
+135,Behchoko,Behchoko,NT,Behchokò,CSD
+136,Belcarra,Belcarra,BC,Belcarra,CSD
+137,Belcourt,Belcourt,QC,Belcourt,CSD
+138,Bella Bella,Bella Bella,BC,Bella Bella,Manual
+139,Bella Coola,Bella Coola,BC,Bella Coola,PC
+140,Belle Riviere,Belle Riviere,QC,Belle-Rivière,Manual
+141,Bellechasse,Bellechasse,QC,Bellechasse,Manual
+142,Belleterre,Belleterre,QC,Belleterre,CSD
+143,Belleville,Belleville,ON,Belleville,CSD
+144,Belmont,Belmont,ON,Belmont,Manual
+145,Beloeil,Beloeil,QC,Beloeil,CSD
+146,Benalto,Benalto,AB,Benalto,Manual
+147,Bentley,Bentley,AB,Bentley,CSD
+148,Beresford,Beresford,NB,Beresford,CSD
+149,Berry,Berry,QC,Berry,CSD
+150,Berthier sur Mer,Berthier-sur-Mer,QC,Berthier-sur-Mer,CSD
+151,Berthierville,Berthierville,QC,Berthierville,CSD
+152,Berwick,Berwick,NS,Berwick,CSD
+153,Berwyn,Berwyn,AB,Berwyn,CSD
+154,Biencourt,Biencourt,QC,Biencourt,CSD
+155,Big River,Big River,SK,Big River,CSD
+156,Biggar,Biggar,SK,Biggar,CSD
+157,Billings,Billings,ON,Billings,CSD
+158,Bittern Lake,Bittern Lake,AB,Bittern Lake,Manual
+159,Black Creek,Black Creek,BC,Black Creek,Manual
+160,Black Diamond,Black Diamond,AB,Black Diamond,CSD
+161,Black River,Black River,ON,Black River,Manual
+162,Blackfalds,Blackfalds,AB,Blackfalds,CSD
+163,Blackie,Blackie,AB,Blackie,PC
+164,Blainville,Blainville,QC,Blainville,CSD
+165,Blairmore,Blairmore,AB,Blairmore,Manual
+166,Blanc Sablon,Blanc-Sablon,QC,Blanc-Sablon,CSD
+167,Blandford,Blandford,ON,Blandford,Manual
+168,Blenheim,Blenheim,ON,Blenheim,Manual
+169,Blind River,Blind River,ON,Blind River,CSD
+170,Blue Mountains,Blue Mountains,ON,Blue Mountains,Manual
+171,Blue Sea,Blue Sea,QC,Blue Sea,CSD
+172,Bluewater,Bluewater,ON,Bluewater,CSD
+173,Blyth,Blyth,ON,Blyth,PC
+174,Bobcaygeon,Bobcaygeon,ON,Bobcaygeon,Manual
+175,Boileau,Boileau,QC,Boileau,CSD
+176,Boisbriand,Boisbriand,QC,Boisbriand,CSD
+177,Boischatel,Boischatel,QC,Boischatel,CSD
+178,Bois des Filion,Bois-des-Filion,QC,Bois-des-Filion,CSD
+179,Bois Franc,Bois-Franc,QC,Bois-Franc,CSD
+180,Bolton,Bolton,ON,Bolton,Manual
+181,Bolton Est,Bolton-Est,QC,Bolton-Est,CSD
+182,Bon Accord,Bon Accord,AB,Bon Accord,CSD
+183,Bonaventure,Bonaventure,QC,Bonaventure,CSD
+184,Bonavista,Bonavista,NL,Bonavista,CSD
+185,Bonfield,Bonfield,ON,Bonfield,Manual
+186,Bonnyville,Bonnyville,AB,Bonnyville,CSD
+187,Bonsecours,Bonsecours,QC,Bonsecours,CSD
+188,Bonshaw,Bonshaw,PE,Bonshaw,Manual
+189,Bornholm,Bornholm,ON,Bornholm,Manual
+190,Botha,Botha,AB,Botha,CSD
+191,Botwood,Botwood,NL,Botwood,CSD
+192,Boucherville,Boucherville,QC,Boucherville,CSD
+193,Bouchette,Bouchette,QC,Bouchette,CSD
+194,Bouctouche,Bouctouche,NB,Bouctouche,CSD
+195,Bow Valley Park,Bow Valley Park,AB,Bow Valley Park,Manual
+196,Bowden,Bowden,AB,Bowden,CSD
+197,Bowman,Bowman,QC,Bowman,Manual
+198,Bowmanville,Bowmanville,ON,Bowmanville,Manual
+199,Boyle,Boyle,AB,Boyle,CSD
+200,Bracebridge,Bracebridge,ON,Bracebridge,CSD
+201,Bradford,Bradford,ON,Bradford,Manual
+202,Bradford West Gwillimbury,Bradford West Gwillimbury,ON,Bradford West Gwillimbury,CSD
+203,Bragg Creek,Bragg Creek,AB,Bragg Creek,PC
+204,Bramalea,Bramalea,ON,Bramalea,Manual
+205,Brampton,Brampton,ON,Brampton,CSD
+206,Brandon,Brandon,MB,Brandon,CSD
+207,Brant,Brant,ON,Brant,CSD
+208,Brant County,Brant County,ON,Brant County,Manual
+209,Brantford,Brantford,ON,Brantford,CSD
+210,Brebeuf,Brébeuf,QC,Brébeuf,Manual
+211,Bredenbury,Bredenbury,SK,Bredenbury,CSD
+212,Brentwood Bay,Brentwood Bay,BC,Brentwood Bay,Manual
+213,Brethour,Brethour,ON,Brethour,CSD
+214,Breton,Breton,AB,Breton,CSD
+215,Bridgewater,Bridgewater,NS,Bridgewater,CSD
+216,Brigden,Brigden,ON,Brigden,Manual
+217,Brigham,Brigham,QC,Brigham,CSD
+218,Brighton,Brighton,ON,Brighton,CSD
+219,Brigus,Brigus,NL,Brigus,CSD
+220,Brisco,Brisco,BC,Brisco,Manual
+221,Bristol,Bristol,QC,Bristol,CSD
+222,Brockton,Brockton,ON,Brockton,CSD
+223,Brockville,Brockville,ON,Brockville,CSD
+224,Brome,Brome,QC,Brome,CSD
+225,Brome-Missisquoi,Brome-Missisquoi,QC,Brome-Missisquoi,Manual
+226,Bromont,Bromont,QC,Bromont,CSD
+227,Brooklin,Brooklin,ON,Brooklin,Manual
+228,Brooks,Brooks,AB,Brooks,CSD
+229,Brossard,Brossard,QC,Brossard,CSD
+230,Brownsburg Chatham,Brownsburg-Chatham,QC,Brownsburg-Chatham,CSD
+231,Bruce,Bruce,ON,Bruce,PC
+232,Bruce Mines,Bruce Mines,ON,Bruce Mines,CSD
+233,Bruce Peninsula,Bruce Peninsula,ON,Bruce Peninsula,Manual
+234,Bruderheim,Bruderheim,AB,Bruderheim,CSD
+235,Brussels,Brussels,ON,Brussels,Manual
+236,Bryson,Bryson,QC,Bryson,CSD
+237,Buchans,Buchans,NL,Buchans,CSD
+238,Burford,Burford,ON,Burford,PC
+239,Burin,Burin,NL,Burin,CSD
+240,Burleigh,Burleigh,ON,Burleigh,Manual
+241,Burlington,Burlington,ON,Burlington,CSD
+242,Burnaby,Burnaby,BC,Burnaby,CSD
+243,Burns Lake,Burns Lake,BC,Burns Lake,CSD
+244,Bury,Bury,QC,Bury,CSD
+245,Cabri,Cabri,SK,Cabri,CSD
+246,Cacouna,Cacouna,QC,Cacouna,CSD
+247,Cairo,Cairo,ON,Cairo,Manual
+248,Caledon,Caledon,ON,Caledon,CSD
+249,Caledonia,Caledonia,ON,Caledonia,Manual
+250,Calgary,Calgary,AB,Calgary,CSD
+251,Callander,Callander,ON,Callander,CSD
+252,Calmar,Calmar,AB,Calmar,CSD
+253,Cambridge,Cambridge,ON,Cambridge,CSD
+254,Cambridge Bay,Cambridge Bay,NU,Cambridge Bay,CSD
+255,Camlachie,Camlachie,ON,Camlachie,Manual
+256,Camp Horizon,Camp Horizon,AB,Camp Horizon,Manual
+257,Campbell River,Campbell River,BC,Campbell River,CSD
+258,Campbellford,Campbellford,ON,Campbellford,Manual
+259,Campbell's Bay,Campbell's Bay,QC,Campbell's Bay,CSD
+260,Campbellton,Campbellton,NB,Campbellton,CSD
+261,Camrose,Camrose,AB,Camrose,CSD
+262,Candiac,Candiac,QC,Candiac,CSD
+263,Caniapiscau,Caniapiscau,QC,Caniapiscau,CSD
+264,Canmore,Canmore,AB,Canmore,CSD
+265,Canoe,Canoe,BC,Canoe,Manual
+266,Cantley,Cantley,QC,Cantley,CSD
+267,Cap Sante,Cap Sante,QC,Cap-Santé,CSD
+268,Cap Chat,Cap-Chat,QC,Cap-Chat,CSD
+269,Cape Dorset,Cape Dorset,NU,Cape Dorset,CSD
+270,Caplan,Caplan,QC,Caplan,CSD
+271,Cap Saint Ignace,Cap-Saint-Ignace,QC,Cap-Saint-Ignace,CSD
+272,Carbonear,Carbonear,NL,Carbonear,CSD
+273,Carden,Carden,ON,Carden,Manual
+274,Cardiff,Cardiff,ON,Cardiff,Manual
+275,Cardigan,Cardigan,PE,Cardigan,CSD
+276,Cardston,Cardston,AB,Cardston,CSD
+277,Carignan,Carignan,QC,Carignan,CSD
+278,Carleton Place,Carleton Place,ON,Carleton Place,CSD
+279,Carleton sur Mer,Carleton-sur-Mer,QC,Carleton-sur-Mer,CSD
+280,Carling,Carling,ON,Carling,CSD
+281,Carlow,Carlow,ON,Carlow,Manual
+282,Carman,Carman,MB,Carman,CSD
+283,Caroline,Caroline,AB,Caroline,CSD
+284,Caronport,Caronport,SK,Caronport,CSD
+285,Carrot River,Carrot River,SK,Carrot River,CSD
+286,Casey,Casey,ON,Casey,CSD
+287,Casselman,Casselman,ON,Casselman,CSD
+288,Cassiar,Cassiar,BC,Cassiar,Manual
+289,Castlegar,Castlegar,BC,Castlegar,CSD
+290,Causapscal,Causapscal,QC,Causapscal,CSD
+291,Cavan,Cavan,ON,Cavan,Manual
+292,Cavendish,Cavendish,PE,Cavendish,PC
+293,Cavendish,Cavendish,ON,Cavendish,PC
+294,Cawston,Cawston,BC,Cawston,PC
+295,Cayamant,Cayamant,QC,Cayamant,CSD
+296,Cayuga,Cayuga,ON,Cayuga,Manual
+297,Celista,Celista,BC,Celista,PC
+298,Central Elgin,Central Elgin,ON,Central Elgin,CSD
+299,Central Frontenac,Central Frontenac,ON,Central Frontenac,CSD
+300,Central Huron,Central Huron,ON,Central Huron,CSD
+301,Centralia,Centralia,ON,Centralia,Manual
+302,Centre Hastings,Centre Hastings,ON,Centre Hastings,CSD
+303,Centre Wellington,Centre Wellington,ON,Centre Wellington,CSD
+304,Chamberlain,Chamberlain,ON,Chamberlain,CSD
+305,Chambly,Chambly,QC,Chambly,CSD
+306,Chambord,Chambord,QC,Chambord,CSD
+307,Champlain,Champlain,ON,Champlain,CSD
+308,Champlain,Champlain,QC,Champlain,CSD
+309,Champneuf,Champneuf,QC,Champneuf,CSD
+310,Chandler,Chandler,QC,Chandler,CSD
+311,Chandos,Chandos,ON,Chandos,Manual
+312,Chapais,Chapais,QC,Chapais,CSD
+313,Chapleau,Chapleau,ON,Chapleau,CSD
+314,Chapple,Chapple,ON,Chapple,Manual
+315,Charette,Charette,QC,Charette,CSD
+316,Charlemagne,Charlemagne,QC,Charlemagne,CSD
+317,Charlevoix,Charlevoix,QC,Charlevoix,Manual
+318,Charlottetown,Charlottetown,PE,Charlottetown,CSD
+319,Chartierville,Chartierville,QC,Chartierville,CSD
+320,Chase,Chase,BC,Chase,CSD
+321,Chateauguay,Châteauguay,QC,Châteauguay,CSD
+322,Chateau Richer,Château-Richer,QC,Château-Richer,CSD
+323,Chatham,Chatham,ON,Chatham,CSD
+324,Chatsworth,Chatsworth,ON,Chatsworth,CSD
+325,Chazel,Chazel,QC,Chazel,CSD
+326,Cheecham,Cheecham,AB,Cheecham,Manual
+327,Chelsea,Chelsea,QC,Chelsea,CSD
+328,Chemainus,Chemainus,BC,Chemainus,Manual
+329,Cheneville,Chénéville,QC,Chénéville,CSD
+330,Chepstow,Chepstow,ON,Chepstow,Manual
+331,Cherryville,Cherryville,BC,Cherryville,PC
+332,Chertsey,Chertsey,QC,Chertsey,CSD
+333,Chesley,Chesley,ON,Chesley,Manual
+334,Chester,Chester,NS,Chester,CSD
+335,Chestermere,Chestermere,AB,Chestermere,CSD
+336,Chesterville,Chesterville,QC,Chesterville,CSD
+337,Chibougamau,Chibougamau,QC,Chibougamau,CSD
+338,Chicoutimi,Chicoutimi,QC,Chicoutimi,Manual
+339,Chilliwack,Chilliwack,BC,Chilliwack,CSD
+340,Chipman,Chipman,NB,Chipman,CSD
+341,Chipman,Chipman,AB,Chipman,CSD
+342,Chisasibi,Chisasibi,QC,Chisasibi,CSD
+343,Chisholm,Chisholm,ON,Chisholm,CSD
+344,Choiceland,Choiceland,SK,Choiceland,CSD
+345,Christina Lake,Christina Lake,BC,Christina Lake,PC
+346,Churchbridge,Churchbridge,SK,Churchbridge,CSD
+347,Churchill,Churchill,MB,Churchill,CSD
+348,Chute aux Outardes,Chute-aux-Outardes,QC,Chute-aux-Outardes,CSD
+349,Chute Saint Philippe,Chute-Saint-Philippe,QC,Chute-Saint-Philippe,CSD
+350,Clair,Clair,NB,Clair,CSD
+351,Clairmont,Clairmont,AB,Clairmont,Manual
+352,Clarence Rockland,Clarence Rockland,ON,Clarence-Rockland,Manual
+353,Clarendon,Clarendon,QC,Clarendon,CSD
+354,Clarenville,Clarenville,NL,Clarenville,CSD
+355,Claresholm,Claresholm,AB,Claresholm,CSD
+356,Clarington,Clarington,ON,Clarington,CSD
+357,Clarksburg,Clarksburg,ON,Clarksburg,Manual
+358,Clearbrook,Clearbrook,BC,Clearbrook,Manual
+359,Clearview,Clearview,ON,Clearview,CSD
+360,Clearwater,Clearwater,BC,Clearwater,CSD
+361,Clermont,Clermont,QC,Clermont,CSD
+362,Clerval,Clerval,QC,Clerval,CSD
+363,Cleveland,Cleveland,QC,Cleveland,CSD
+364,Clinton,Clinton,ON,Clinton,CSD
+365,Clinton,Clinton,BC,Clinton,CSD
+366,Cloridorme,Cloridorme,QC,Cloridorme,CSD
+367,Cloverdale,Cloverdale,BC,Cloverdale,Manual
+368,Coaldale,Coaldale,AB,Coaldale,CSD
+369,Coaticook,Coaticook,QC,Coaticook,CSD
+370,Cobalt,Cobalt,ON,Cobalt,CSD
+371,Cobble Hill,Cobble Hill,BC,Cobble Hill,PC
+372,Cobourg,Cobourg,ON,Cobourg,CSD
+373,Cocagne,Cocagne,NB,Cocagne,CSD
+374,Cochrane,Cochrane,AB,Cochrane,CSD
+375,Cochrane,Cochrane,ON,Cochrane,CSD
+376,Colborne,Colborne,ON,Colborne,CSD
+377,Cold Lake,Cold Lake,AB,Cold Lake,CSD
+378,Coleman,Coleman,ON,Coleman,CSD
+379,Coleman,Coleman,AB,Coleman,CSD
+380,Collingwood,Collingwood,ON,Collingwood,CSD
+381,Colombier,Colombier,QC,Colombier,CSD
+382,Comox,Comox,BC,Comox,CSD
+383,Compton,Compton,QC,Compton,CSD
+384,Conception Bay South,Conception Bay South,NL,Conception Bay South,CSD
+385,Conklin,Conklin,AB,Conklin,PC
+386,Consort,Consort,AB,Consort,CSD
+387,Consul,Consul,SK,Consul,CSD
+388,Contrecoeur,Contrecoeur,QC,Contrecoeur,CSD
+389,Cookshire Eaton,Cookshire-Eaton,QC,Cookshire-Eaton,CSD
+390,Cookstown,Cookstown,ON,Cookstown,Manual
+391,Coombs,Coombs,BC,Coombs,PC
+392,Coquitlam,Coquitlam,BC,Coquitlam,CSD
+393,Coral Harbour,Coral Harbour,NU,Coral Harbour,Manual
+394,Corner Brook,Corner Brook,NL,Corner Brook,CSD
+395,Cornwall,Cornwall,ON,Cornwall,CSD
+396,Corunna,Corunna,ON,Corunna,Manual
+397,Coteau du Lac,Coteau-du-Lac,QC,Coteau-du-Lac,CSD
+398,Cote Saint Luc,Côte-Saint-Luc,QC,Côte-Saint-Luc,CSD
+399,Courcelles,Courcelles,QC,Courcelles,CSD
+400,Courtenay,Courtenay,BC,Courtenay,CSD
+401,Courtice,Courtice,ON,Courtice,Manual
+402,Courtright,Courtright,ON,Courtright,Manual
+403,Cowansville,Cowansville,QC,Cowansville,CSD
+404,Cowichan Bay,Cowichan Bay,BC,Cowichan Bay,PC
+405,Crabtree,Crabtree,QC,Crabtree,CSD
+406,Craik,Craik,SK,Craik,CSD
+407,Cramahe,Cramahe,ON,Cramahe,Manual
+408,Cranbrook,Cranbrook,BC,Cranbrook,CSD
+409,Craven,Craven,SK,Craven,CSD
+410,Crawford Bay,Crawford Bay,BC,Crawford Bay,PC
+411,Crescent Spur,Crescent Spur,BC,Crescent Spur,Manual
+412,Creston,Creston,BC,Creston,CSD
+413,Crofton,Crofton,BC,Crofton,Manual
+414,Crowsnest Pass,Crowsnest Pass,AB,Crowsnest Pass,CSD
+415,Cupids,Cupids,NL,Cupids,CSD
+416,Curve Lake,Curve Lake,ON,Curve Lake,Manual
+417,Dalhousie,Dalhousie,NB,Dalhousie,CSD
+418,Dalmeny,Dalmeny,SK,Dalmeny,CSD
+419,Dalton,Dalton,ON,Dalton,Manual
+420,Danville,Danville,QC,Danville,CSD
+421,Dapp,Dapp,AB,Dapp,PC
+422,Dartmouth,Dartmouth,NS,Dartmouth,Manual
+423,Dashwood,Dashwood,ON,Dashwood,PC
+424,Dauphin,Dauphin,MB,Dauphin,CSD
+425,D'Autray,D'Autray,QC,D'Autray,Manual
+426,Daveluyville,Daveluyville,QC,Daveluyville,CSD
+427,Davidson,Davidson,SK,Davidson,CSD
+428,Dawson,Dawson,ON,Dawson,CSD
+429,Dawson Creek,Dawson Creek,BC,Dawson Creek,CSD
+430,De Winton,De Winton,AB,De Winton,Manual
+431,Dease Lake,Dease Lake,BC,Dease Lake,PC
+432,Deep Cove,Deep Cove,BC,Deep Cove,PC
+433,Deep River,Deep River,ON,Deep River,CSD
+434,Deer Lake,Deer Lake,NL,Deer Lake,CSD
+435,Deer Lake,Deer Lake,ON,Deer Lake,CSD
+436,Degelis,Dégelis,QC,Dégelis,CSD
+437,Delburne,Delburne,AB,Delburne,CSD
+438,Deleage,Déléage,QC,Déléage,Manual
+439,Delhi,Delhi,ON,Delhi,Manual
+440,Delson,Delson,QC,Delson,CSD
+441,Delta,Delta,BC,Delta,CSD
+442,Denare Beach,Denare Beach,SK,Denare Beach,Manual
+443,Denholm,Denholm,QC,Denholm,CSD
+444,Derwent,Derwent,AB,Derwent,Manual
+445,Desbiens,Desbiens,QC,Desbiens,CSD
+446,Desboro,Desboro,ON,Desboro,Manual
+447,Deschaillons sur Saint Laurent,Deschaillons-sur-Saint-Laurent,QC,Deschaillons-sur-Saint-Laurent,CSD
+448,Deschambault Grondines,Deschambault Grondines,QC,Deschambault-Grondines,CSD
+449,Deschambault Grondines,Deschambault-Grondines,QC,Deschambault-Grondines,CSD
+450,Deseronto,Deseronto,ON,Deseronto,CSD
+451,Desert Blume,Desert Blume,AB,Desert Blume,PC
+452,Deux Montagnes,Deux-Montagnes,QC,Deux-Montagnes,CSD
+453,Devenish,Devenish,AB,Devenish,Manual
+454,Devon,Devon,AB,Devon,CSD
+455,Diamond City,Diamond City,AB,Diamond City,PC
+456,Didsbury,Didsbury,AB,Didsbury,CSD
+457,Dieppe,Dieppe,NB,Dieppe,CSD
+458,Digby,Digby,NS,Digby,CSD
+459,Digby,Digby,ON,Digby,Manual
+460,Disraeli,Disraeli,QC,Disraeli,CSD
+461,Dixville,Dixville,QC,Dixville,CSD
+462,Doaktown,Doaktown,NB,Doaktown,CSD
+463,Dolbeau Mistassini,Dolbeau-Mistassini,QC,Dolbeau-Mistassini,CSD
+464,Dollard Des Ormeaux,Dollard-Des Ormeaux,QC,Dollard-Des Ormeaux,CSD
+465,Doncaster,Doncaster,QC,Doncaster,CSD
+466,Donnacona,Donnacona,QC,Donnacona,CSD
+467,Donnelly,Donnelly,AB,Donnelly,CSD
+468,Dorion,Dorion,ON,Dorion,CSD
+469,Dorval,Dorval,QC,Dorval,CSD
+470,Dosquet,Dosquet,QC,Dosquet,CSD
+471,Douro,Douro,ON,Douro,Manual
+472,Draper,Draper,AB,Draper,Manual
+473,Drayton Valley,Drayton Valley,AB,Drayton Valley,CSD
+474,Dresden,Dresden,ON,Dresden,Manual
+475,Drumheller,Drumheller,AB,Drumheller,CSD
+476,Drummond,Drummond,QC,Drummond,CSD
+477,Drummond,Drummond,ON,Drummond,CSD
+478,Drummondville,Drummondville,QC,Drummondville,CSD
+479,Dryden,Dryden,ON,Dryden,CSD
+480,Dubreuilville,Dubreuilville,ON,Dubreuilville,CSD
+481,Dudswell,Dudswell,QC,Dudswell,CSD
+482,Dufferin,Dufferin,ON,Dufferin,CSD
+483,Duffield,Duffield,AB,Duffield,PC
+484,Duhamel,Duhamel,QC,Duhamel,CSD
+485,Duhamel Ouest,Duhamel-Ouest,QC,Duhamel-Ouest,CSD
+486,Dummer,Dummer,ON,Dummer,Manual
+487,Duncan,Duncan,BC,Duncan,CSD
+488,Dundalk,Dundalk,ON,Dundalk,Manual
+489,Dundas,Dundas,ON,Dundas,CSD
+490,Dundee,Dundee,QC,Dundee,CSD
+491,Dundurn,Dundurn,SK,Dundurn,CSD
+492,Dungannon,Dungannon,ON,Dungannon,Manual
+493,Dunham,Dunham,QC,Dunham,CSD
+494,Dunmore,Dunmore,AB,Dunmore,Manual
+495,Dunnville,Dunnville,ON,Dunnville,Manual
+496,Duparquet,Duparquet,QC,Duparquet,CSD
+497,Dupuy,Dupuy,QC,Dupuy,CSD
+498,Durham,Durham,ON,Durham,CSD
+499,Durham Sud,Durham-Sud,QC,Durham-Sud,CSD
+500,Dutton,Dutton,ON,Dutton,Manual
+501,Duvernay,Duvernay,AB,Duvernay,Manual
+502,Dysart,Dysart,ON,Dysart,Manual
+503,Eagle Bay,Eagle Bay,BC,Eagle Bay,PC
+504,Ear Falls,Ear Falls,ON,Ear Falls,CSD
+505,East Angus,East Angus,QC,East Angus,CSD
+506,East Broughton,East Broughton,QC,East Broughton,CSD
+507,East Farnham,East Farnham,QC,East Farnham,CSD
+508,East Ferris,East Ferris,ON,East Ferris,CSD
+509,East Garafraxa,East Garafraxa,ON,East Garafraxa,CSD
+510,East Gwillimbury,East Gwillimbury,ON,East Gwillimbury,CSD
+511,East Hawkesbury,East Hawkesbury,ON,East Hawkesbury,CSD
+512,East Hereford,East Hereford,QC,East Hereford,CSD
+513,East Luther Grand Valley,East Luther Grand Valley,ON,East Luther Grand Valley,Manual
+514,Eastend,Eastend,SK,Eastend,CSD
+515,Eastmain,Eastmain,QC,Eastmain,CSD
+516,Eastman,Eastman,QC,Eastman,CSD
+517,Echo Bay,Echo Bay,ON,Echo Bay,CSD
+518,Eckville,Eckville,AB,Eckville,CSD
+519,Edberg,Edberg,AB,Edberg,Manual
+520,Edmonton,Edmonton,AB,Edmonton,CSD
+521,Edmundston,Edmundston,NB,Edmundston,CSD
+522,Edson,Edson,AB,Edson,CSD
+523,Edwardsburgh,Edwardsburgh,ON,Edwardsburgh,Manual
+524,Eeyou Istchee Baie James,Eeyou Istchee Baie-James,QC,Eeyou Istchee Baie-James,CSD
+525,Egan Sud,Egan-Sud,QC,Egan-Sud,CSD
+526,Egmont,Egmont,BC,Egmont,Manual
+527,Eldon,Eldon,ON,Eldon,CSD
+528,Elgin,Elgin,ON,Elgin,CSD
+529,Elgin,Elgin,QC,Elgin,CSD
+530,Elk Point,Elk Point,AB,Elk Point,CSD
+531,Elkford,Elkford,BC,Elkford,CSD
+532,Elliot Lake,Elliot Lake,ON,Elliot Lake,CSD
+533,Elliston,Elliston,NL,Elliston,CSD
+534,Elmira,Elmira,ON,Elmira,Manual
+535,Elmvale,Elmvale,ON,Elmvale,Manual
+536,Elmwood,Elmwood,ON,Elmwood,Manual
+537,Elnora,Elnora,AB,Elnora,CSD
+538,Elora,Elora,ON,Elora,Manual
+539,Emily,Emily,ON,Emily,Manual
+540,Emo,Emo,ON,Emo,CSD
+541,Enderby,Enderby,BC,Enderby,CSD
+542,Englefeld,Englefeld,SK,Englefeld,CSD
+543,Englehart,Englehart,ON,Englehart,CSD
+544,Enniskillen,Enniskillen,ON,Enniskillen,CSD
+545,Ennismore,Ennismore,ON,Ennismore,Manual
+546,Entrelacs,Entrelacs,QC,Entrelacs,CSD
+547,Eramosa,Eramosa,ON,Eramosa,Manual
+548,Erin,Erin,ON,Erin,CSD
+549,Errington,Errington,BC,Errington,PC
+550,Escuminac,Escuminac,QC,Escuminac,CSD
+551,Espanola,Espanola,ON,Espanola,CSD
+552,Esprit Saint,Esprit Saint,QC,Esprit-Saint,Manual
+553,Esprit Saint,Esprit-Saint,QC,Esprit-Saint,CSD
+554,Esquimalt,Esquimalt,BC,Esquimalt,CSD
+555,Essa,Essa,ON,Essa,CSD
+556,Essex,Essex,ON,Essex,CSD
+557,Essipit,Essipit,QC,Essipit,CSD
+558,Esterel,Estérel,QC,Estérel,CSD
+559,Estevan,Estevan,SK,Estevan,CSD
+560,Eston,Eston,SK,Eston,CSD
+561,Ethelbert,Ethelbert,MB,Ethelbert,CSD
+562,Exeter,Exeter,ON,Exeter,Manual
+563,Fairmont Hot Springs,Fairmont Hot Springs,BC,Fairmont Hot Springs,PC
+564,Falher,Falher,AB,Falher,CSD
+565,Fanny Bay,Fanny Bay,BC,Fanny Bay,PC
+566,Faraday,Faraday,ON,Faraday,CSD
+567,Farnham,Farnham,QC,Farnham,CSD
+568,Fassett,Fassett,QC,Fassett,CSD
+569,Faust,Faust,AB,Faust,Manual
+570,Fenelon,Fenelon,ON,Fenelon,Manual
+571,Fergus,Fergus,ON,Fergus,Manual
+572,Ferland et Boilleau,Ferland-et-Boilleau,QC,Ferland-et-Boilleau,CSD
+573,Ferme Neuve,Ferme-Neuve,QC,Ferme-Neuve,CSD
+574,Fermont,Fermont,QC,Fermont,CSD
+575,Fernie,Fernie,BC,Fernie,CSD
+576,Ferryland,Ferryland,NL,Ferryland,CSD
+577,Feversham,Feversham,ON,Feversham,Manual
+578,Fillmore,Fillmore,SK,Fillmore,CSD
+579,Flesherton,Flesherton,ON,Flesherton,PC
+580,Florence,Florence,ON,Florence,Manual
+581,Fordwich,Fordwich,ON,Fordwich,Manual
+582,Forestburg,Forestburg,AB,Forestburg,CSD
+583,Forestville,Forestville,QC,Forestville,CSD
+584,Fort Albany,Fort Albany,ON,Fort Albany,Manual
+585,Fort Assiniboine,Fort Assiniboine,AB,Fort Assiniboine,Manual
+586,Fort Chipewyan,Fort Chipewyan,AB,Fort Chipewyan,PC
+587,Fort Erie,Fort Erie,ON,Fort Erie,CSD
+588,Fort Frances,Fort Frances,ON,Fort Frances,CSD
+589,Fort Fraser,Fort Fraser,BC,Fort Fraser,PC
+590,Fort Langley,Fort Langley,BC,Fort Langley,Manual
+591,Fort MacKay,Fort MacKay,AB,Fort McKay,Manual
+592,Fort Macleod,Fort Macleod,AB,Fort Macleod,CSD
+593,Fort McKay,Fort McKay,AB,Fort McKay,Manual
+594,Fort McKay,Fort McKay,AB,Fort McKay,Manual
+595,Fort McMurray,Fort McMurray,AB,Fort McMurray,Manual
+596,Fort Nelson,Fort Nelson,BC,Fort Nelson,Manual
+597,Fort Simpson,Fort Simpson,NT,Fort Simpson,CSD
+598,Fort Smith,Fort Smith,NT,Fort Smith,CSD
+599,Fort St James,Fort St James,BC,Fort St. James,CSD
+600,Fort St John,Fort St John,BC,Fort St. John,CSD
+601,Fort Steele,Fort Steele,BC,Fort Steele,Manual
+602,Fort Vermillion,Fort Vermillion,AB,Fort Vermillion,Manual
+603,Fort Coulonge,Fort-Coulonge,QC,Fort-Coulonge,CSD
+604,Fortierville,Fortierville,QC,Fortierville,CSD
+605,Fossambault sur le Lac,Fossambault-sur-le-Lac,QC,Fossambault-sur-le-Lac,CSD
+606,Fox Creek,Fox Creek,AB,Fox Creek,CSD
+607,Frampton,Frampton,QC,Frampton,CSD
+608,Franklin,Franklin,QC,Franklin,CSD
+609,Franquelin,Franquelin,QC,Franquelin,CSD
+610,Fraser Lake,Fraser Lake,BC,Fraser Lake,CSD
+611,Fredericton,Fredericton,NB,Fredericton,CSD
+612,Frelighsburg,Frelighsburg,QC,Frelighsburg,CSD
+613,French River,French River,ON,French River,CSD
+614,Frontenac,Frontenac,QC,Frontenac,CSD
+615,Frontenac,Frontenac,ON,Frontenac,CSD
+616,Frontenac Islands,Frontenac Islands,ON,Frontenac Islands,CSD
+617,Fruitvale,Fruitvale,BC,Fruitvale,CSD
+618,Gabriola,Gabriola,BC,Gabriola,Manual
+619,Gallichan,Gallichan,QC,Gallichan,CSD
+620,Galway,Galway,ON,Galway,Manual
+621,Gambo,Gambo,NL,Gambo,CSD
+622,Gananoque,Gananoque,ON,Gananoque,CSD
+623,Gander,Gander,NL,Gander,CSD
+624,Ganges,Ganges,BC,Ganges,Manual
+625,Gaspe,Gaspé,QC,Gaspé,CSD
+626,Gatineau,Gatineau,QC,Gatineau,CSD
+627,Gauthier,Gauthier,ON,Gauthier,CSD
+628,Genelle,Genelle,BC,Genelle,PC
+629,Georgian Bay,Georgian Bay,ON,Georgian Bay,CSD
+630,Georgian Bluffs,Georgian Bluffs,ON,Georgian Bluffs,Manual
+631,Georgina,Georgina,ON,Georgina,CSD
+632,Gesgapegiag,Gesgapegiag,QC,Gesgapegiag,Manual
+633,Gibsons,Gibsons,BC,Gibsons,CSD
+634,Gillies,Gillies,ON,Gillies,CSD
+635,Gimli,Gimli,MB,Gimli,CSD
+636,Girardville,Girardville,QC,Girardville,CSD
+637,Gjoa Haven,Gjoa Haven,NU,Gjoa Haven,CSD
+638,Glen Morris,Glen Morris,ON,Glen Morris,Manual
+639,Glenwood,Glenwood,AB,Glenwood,CSD
+640,Glovertown,Glovertown,NL,Glovertown,CSD
+641,Godbout,Godbout,QC,Godbout,CSD
+642,Goderich,Goderich,ON,Goderich,CSD
+643,Godmanchester,Godmanchester,QC,Godmanchester,CSD
+644,Gogama,Gogama,ON,Gogama,PC
+645,Gold Bridge,Gold Bridge,BC,Gold Bridge,PC
+646,Gold River,Gold River,BC,Gold River,CSD
+647,Golden,Golden,BC,Golden,CSD
+648,Gordon,Gordon,ON,Gordon,CSD
+649,Gore,Gore,QC,Gore,CSD
+650,Gore Bay,Gore Bay,ON,Gore Bay,CSD
+651,Gormley,Gormley,ON,Gormley,Manual
+652,Gorrie,Gorrie,ON,Gorrie,Manual
+653,Gowanstown,Gowanstown,ON,Gowanstown,Manual
+654,Gracefield,Gracefield,QC,Gracefield,CSD
+655,Grafton,Grafton,ON,Grafton,Manual
+656,Granby,Granby,QC,Granby,CSD
+657,Grand Bank,Grand Bank,NL,Grand Bank,CSD
+658,Grand Bend,Grand Bend,ON,Grand Bend,Manual
+659,Grand Falls,Grand Falls,NB,Grand Falls,CSD
+660,Grand Forks,Grand Forks,BC,Grand Forks,CSD
+661,Grand Valley,Grand Valley,ON,Grand Valley,CSD
+662,Grande Cache,Grande Cache,AB,Grande Cache,CSD
+663,Grande Prairie,Grande Prairie,AB,Grande Prairie,CSD
+664,Grande Riviere,Grande Rivière,QC,Grande-Rivière,Manual
+665,Grande Vallee,Grande Vallee,QC,Grande-Vallée,Manual
+666,Grande Riviere,Grande-Rivière,QC,Grande-Rivière,CSD
+667,Grandes Piles,Grandes-Piles,QC,Grandes-Piles,CSD
+668,Grande Vallee,Grande-Vallée,QC,Grande-Vallée,CSD
+669,Grandin,Grandin,AB,Grandin,Manual
+670,Grand Remous,Grand-Remous,QC,Grand-Remous,CSD
+671,Grand Saint Esprit,Grand-Saint-Esprit,QC,Grand-Saint-Esprit,CSD
+672,Grandview,Grandview,MB,Grandview,CSD
+673,Granisle,Granisle,BC,Granisle,CSD
+674,Grassland,Grassland,AB,Grassland,CSD
+675,Gravelbourg,Gravelbourg,SK,Gravelbourg,CSD
+676,Gravenhurst,Gravenhurst,ON,Gravenhurst,CSD
+677,Greater Napanee,Greater Napanee,ON,Greater Napanee,CSD
+678,Greenstone,Greenstone,ON,Greenstone,CSD
+679,Grenfell,Grenfell,SK,Grenfell,CSD
+680,Grenville,Grenville,QC,Grenville,CSD
+681,Grenville sur la Rouge,Grenville-sur-la-Rouge,QC,Grenville-sur-la-Rouge,CSD
+682,Grey,Grey,ON,Grey,CSD
+683,Grey Highlands,Grey Highlands,ON,Grey Highlands,CSD
+684,Grimsby,Grimsby,ON,Grimsby,CSD
+685,Grimshaw,Grimshaw,AB,Grimshaw,CSD
+686,Grosse Ile,Grosse-Île,QC,Grosse-Île,Manual
+687,Grosses Roches,Grosses-Roches,QC,Grosses-Roches,CSD
+688,Guelph,Guelph,ON,Guelph,CSD
+689,Gull Lake,Gull Lake,SK,Gull Lake,CSD
+690,Hafford,Hafford,SK,Hafford,CSD
+691,Hagersville,Hagersville,ON,Hagersville,Manual
+692,Hairy Hill,Hairy Hill,AB,Hairy Hill,Manual
+693,Haldimand,Haldimand,ON,Haldimand,Manual
+694,Haldimand County,Haldimand County,ON,Haldimand County,CSD
+695,Haliburton,Haliburton,ON,Haliburton,Manual
+696,Halifax,Halifax,NS,Halifax,CSD
+697,Halton,Halton,ON,Halton,Manual
+698,Halton Hills,Halton Hills,ON,Halton Hills,CSD
+699,Ham Sud,Ham Sud,QC,Ham-Sud,Manual
+700,Hamilton,Hamilton,ON,Hamilton,CSD
+701,Ham Nord,Ham-Nord,QC,Ham-Nord,CSD
+702,Hampstead,Hampstead,QC,Hampstead,CSD
+703,Hampton,Hampton,NB,Hampton,CSD
+704,Ham Sud,Ham-Sud,QC,Ham-Sud,CSD
+705,Hanna,Hanna,AB,Hanna,CSD
+706,Hanover,Hanover,ON,Hanover,CSD
+707,Hanwell,Hanwell,NB,Hanwell,CSD
+708,Happy Valley Goose Bay,Happy Valley-Goose Bay,NL,Happy Valley-Goose Bay,CSD
+709,Harley,Harley,ON,Harley,CSD
+710,Harrington,Harrington,QC,Harrington,CSD
+711,Harrison Mills,Harrison Mills,BC,Harrison Mills,PC
+712,Harvie Heights,Harvie Heights,AB,Harvie Heights,Manual
+713,Hastings,Hastings,ON,Hastings,Manual
+714,Hatley,Hatley,QC,Hatley,CSD
+715,Havelock,Havelock,QC,Havelock,CSD
+716,Havelock,Havelock,ON,Havelock,CSD
+717,Havre Saint Pierre,Havre-Saint-Pierre,QC,Havre-Saint-Pierre,CSD
+718,Hawkesbury,Hawkesbury,ON,Hawkesbury,CSD
+719,Hay Lakes,Hay Lakes,AB,Hay Lakes,CSD
+720,Hay River,Hay River,NT,Hay River,CSD
+721,Hazelton,Hazelton,BC,Hazelton,CSD
+722,Headingley,Headingley,MB,Headingley,CSD
+723,Hearst,Hearst,ON,Hearst,CSD
+724,Hebertville,Hébertville,QC,Hébertville,CSD
+725,Hebertville Station,Hébertville Station,QC,Hébertville-Station,Manual
+726,Heinsburg,Heinsburg,AB,Heinsburg,Manual
+727,Hemmingford,Hemmingford,QC,Hemmingford,CSD
+728,Henryville,Henryville,QC,Henryville,CSD
+729,Hensall,Hensall,ON,Hensall,PC
+730,Hepworth,Hepworth,ON,Hepworth,Manual
+731,Herouxville,Hérouxville,QC,Hérouxville,Manual
+732,Hiawatha,Hiawatha,ON,Hiawatha,Manual
+733,Hiawatha First Nation,Hiawatha First Nation,ON,Hiawatha First Nation,CSD
+734,High Prairie,High Prairie,AB,High Prairie,CSD
+735,Highlands East,Highlands East,ON,Highlands East,Manual
+736,Hilliard,Hilliard,ON,Hilliard,Manual
+737,Hillsborough,Hillsborough,NB,Hillsborough,CSD
+738,Hilton,Hilton,ON,Hilton,CSD
+739,Hilton Beach,Hilton Beach,ON,Hilton Beach,Manual
+740,Hinchinbrooke,Hinchinbrooke,QC,Hinchinbrooke,CSD
+741,Hinton,Hinton,AB,Hinton,CSD
+742,Hixon,Hixon,BC,Hixon,Manual
+743,Hobbema,Hobbema,AB,Hobbema,PC
+744,Holden,Holden,AB,Holden,Manual
+745,Holland Landing,Holland Landing,ON,Holland Landing,Manual
+746,Holstein,Holstein,ON,Holstein,Manual
+747,Honfleur,Honfleur,QC,Honfleur,CSD
+748,Hope,Hope,QC,Hope,CSD
+749,Hornepayne,Hornepayne,ON,Hornepayne,CSD
+750,Horsefly,Horsefly,BC,Horsefly,PC
+751,Houston,Houston,BC,Houston,CSD
+752,Howick,Howick,QC,Howick,CSD
+753,Howick,Howick,ON,Howick,CSD
+754,Huberdeau,Huberdeau,QC,Huberdeau,CSD
+755,Hudson,Hudson,QC,Hudson,CSD
+756,Hudson Bay,Hudson Bay,SK,Hudson Bay,CSD
+757,Humboldt,Humboldt,SK,Humboldt,CSD
+758,Huntingdon,Huntingdon,QC,Huntingdon,CSD
+759,Huntsville,Huntsville,ON,Huntsville,CSD
+760,Huron,Huron,ON,Huron,Manual
+761,Huron East,Huron East,ON,Huron East,CSD
+762,Huron Park,Huron Park,ON,Huron Park,Manual
+763,Huron Shores,Huron Shores,ON,Huron Shores,CSD
+764,Igloolik,Igloolik,NU,Igloolik,CSD
+765,Ignace,Ignace,ON,Ignace,CSD
+766,Indian Head,Indian Head,SK,Indian Head,CSD
+767,Ingersoll,Ingersoll,ON,Ingersoll,CSD
+768,Innisfail,Innisfail,AB,Innisfail,CSD
+769,Innisfil,Innisfil,ON,Innisfil,CSD
+770,Innisfill,Innisfill,ON,Innisfil,Manual
+771,Innisfree,Innisfree,AB,Innisfree,CSD
+772,Inukjuak,Inukjuak,QC,Inukjuak,CSD
+773,Inuvik,Inuvik,NT,Inuvik,CSD
+774,Invermere,Invermere,BC,Invermere,CSD
+775,Inverness,Inverness,QC,Inverness,CSD
+776,Inwood,Inwood,ON,Inwood,Manual
+777,Iqaluit,Iqaluit,NU,Iqaluit,CSD
+778,Irlande,Irlande,QC,Irlande,CSD
+779,Iron Bridge,Iron Bridge,ON,Iron Bridge,PC
+780,Iron River,Iron River,AB,Iron River,Manual
+781,Iroquois,Iroquois,ON,Iroquois,Manual
+782,Iroquois Falls,Iroquois Falls,ON,Iroquois Falls,CSD
+783,Irvine,Irvine,AB,Irvine,Manual
+784,Ivry sur le Lac,Ivry-sur-le-Lac,QC,Ivry-sur-le-Lac,CSD
+785,Ivujivik,Ivujivik,QC,Ivujivik,CSD
+786,James,James,ON,James,CSD
+787,Jarvis,Jarvis,ON,Jarvis,Manual
+788,Jasper,Jasper,AB,Jasper,CSD
+789,Johnson,Johnson,ON,Johnson,CSD
+790,Joliette,Joliette,QC,Joliette,CSD
+791,Joly,Joly,ON,Joly,CSD
+792,Jonquiere,Jonquiere,QC,Jonquière,Manual
+793,Jonquiere,Jonquière,QC,Jonquière,Manual
+794,Kahnawake,Kahnawake,QC,Kahnawake,CSD
+795,Kaleden,Kaleden,BC,Kaleden,PC
+796,Kamloops,Kamloops,BC,Kamloops,CSD
+797,Kamouraska,Kamouraska,QC,Kamouraska,CSD
+798,Kamsack,Kamsack,SK,Kamsack,CSD
+799,Kananaskis Village,Kananaskis Village,AB,Kananaskis Village,Manual
+800,Kangiqsualujjuaq,Kangiqsualujjuaq,QC,Kangiqsualujjuaq,CSD
+801,Kangiqsujuaq,Kangiqsujuaq,QC,Kangiqsujuaq,CSD
+802,Kangirsuk,Kangirsuk,QC,Kangirsuk,CSD
+803,Kapuskasing,Kapuskasing,ON,Kapuskasing,CSD
+804,Kasabonika Lake,Kasabonika Lake,ON,Kasabonika Lake,Manual
+805,Kashechewan,Kashechewan,ON,Kashechewan,Manual
+806,Kaslo,Kaslo,BC,Kaslo,CSD
+807,Kawartha Lakes,Kawartha Lakes,ON,Kawartha Lakes,CSD
+808,Kawawachikamach,Kawawachikamach,QC,Kawawachikamach,CSD
+809,Kazabazua,Kazabazua,QC,Kazabazua,CSD
+810,Kearney,Kearney,ON,Kearney,CSD
+811,Kelowna,Kelowna,BC,Kelowna,CSD
+812,Kelsey,Kelsey,AB,Kelsey,CSD
+813,Kemptville,Kemptville,ON,Kemptville,Manual
+814,Kendal,Kendal,SK,Kendal,Manual
+815,Kenora,Kenora,ON,Kenora,CSD
+816,Kensington,Kensington,PE,Kensington,CSD
+817,Kentville,Kentville,NS,Kentville,CSD
+818,Keremeos,Keremeos,BC,Keremeos,CSD
+819,Kerns,Kerns,ON,Kerns,Manual
+820,Keswick,Keswick,ON,Keswick,Manual
+821,Kettle Point,Kettle Point,ON,Kettle Point,Manual
+822,Kiamika,Kiamika,QC,Kiamika,CSD
+823,Killam,Killam,AB,Killam,CSD
+824,Killarney,Killarney,ON,Killarney,CSD
+825,Kimberley,Kimberley,BC,Kimberley,CSD
+826,Kimberley,Kimberley,ON,Kimberley,CSD
+827,Kinburn,Kinburn,ON,Kinburn,Manual
+828,Kincardine,Kincardine,ON,Kincardine,CSD
+829,Kindersley,Kindersley,SK,Kindersley,CSD
+830,King,King,ON,King,CSD
+831,Kingman,Kingman,AB,Kingman,PC
+832,Kingsbury,Kingsbury,QC,Kingsbury,CSD
+833,Kingsey Falls,Kingsey Falls,QC,Kingsey Falls,CSD
+834,Kingston,Kingston,ON,Kingston,CSD
+835,Kingsville,Kingsville,ON,Kingsville,CSD
+836,Kinkora,Kinkora,PE,Kinkora,CSD
+837,Kinnear's Mills,Kinnear's Mills,QC,Kinnear's Mills,CSD
+838,Kinsella,Kinsella,AB,Kinsella,Manual
+839,Kipawa,Kipawa,QC,Kipawa,CSD
+840,Kipling,Kipling,SK,Kipling,CSD
+841,Kirkland,Kirkland,QC,Kirkland,CSD
+842,Kirkland Lake,Kirkland Lake,ON,Kirkland Lake,CSD
+843,Kirkton,Kirkton,ON,Kirkton,Manual
+844,Kitchener,Kitchener,ON,Kitchener,CSD
+845,Kitimat,Kitimat,BC,Kitimat,CSD
+846,Kleinburg,Kleinburg,ON,Kleinburg,Manual
+847,Kootenay Bay,Kootenay Bay,BC,Kootenay Bay,Manual
+848,Kuujjuaq,Kuujjuaq,QC,Kuujjuaq,CSD
+849,Kuujjuarapik,Kuujjuarapik,QC,Kuujjuarapik,CSD
+850,La Baie,La Baie,QC,La Baie,Manual
+851,La Conception,La Conception,QC,La Conception,CSD
+852,La Corne,La Corne,QC,La Corne,CSD
+853,La Crete,La Crete,AB,La Crete,PC
+854,La Durantaye,La Durantaye,QC,La Durantaye,CSD
+855,La Guadeloupe,La Guadeloupe,QC,La Guadeloupe,CSD
+856,La Jacques Cartier,La Jacques-Cartier,QC,La Jacques-Cartier,Manual
+857,La Loche,La Loche,SK,La Loche,CSD
+858,La Macaza,La Macaza,QC,La Macaza,CSD
+859,La Malbaie,La Malbaie,QC,La Malbaie,CSD
+860,La Martre,La Martre,QC,La Martre,CSD
+861,La Minerve,La Minerve,QC,La Minerve,CSD
+862,La Mitis,La Mitis,QC,La Mitis,Manual
+863,La Motte,La Motte,QC,La Motte,CSD
+864,La Patrie,La Patrie,QC,La Patrie,CSD
+865,La Pocatiere,La Pocatière,QC,La Pocatière,CSD
+866,La Prairie,La Prairie,QC,La Prairie,CSD
+867,La Presentation,La Présentation,QC,La Présentation,CSD
+868,La Reine,La Reine,QC,La Reine,CSD
+869,La Riviere du Nord,La Riviere du Nord,QC,La Rivière-du-Nord,Manual
+870,La Romaine,La Romaine,QC,La Romaine,CSD
+871,La Ronge,La Ronge,SK,La Ronge,CSD
+872,La Sarre,La Sarre,QC,La Sarre,CSD
+873,La Tuque,La Tuque,QC,La Tuque,CSD
+874,La Visitation de Yamaska,La Visitation de Yamaska,QC,La Visitation-de-Yamaska,Manual
+875,La Visitation de Yamaska,La Visitation-de-Yamaska,QC,La Visitation-de-Yamaska,CSD
+876,La Peche,La Pêche,QC,La Pêche,Manual
+877,Labelle,Labelle,QC,Labelle,CSD
+878,Labrador City,Labrador City,NL,Labrador City,CSD
+879,Labrecque,Labrecque,QC,Labrecque,CSD
+880,Lac a la Croix,Lac a la Croix,QC,Lac-à-la-Croix,Manual
+881,Lac Alfred,Lac Alfred,QC,Lac-Alfred,Manual
+882,Lac Blanc,Lac Blanc,QC,Lac-Blanc,Manual
+883,Lac Croche,Lac Croche,QC,Lac-Croche,CSD
+884,Lac Delage,Lac Delage,QC,Lac-Delage,CSD
+885,Lac des ecorces,Lac des ecorces,QC,Lac-des-Écorces,CSD
+886,Lac du Bonnet,Lac du Bonnet,MB,Lac du Bonnet,CSD
+887,Lac edouard,Lac edouard,QC,Lac-Édouard,CSD
+888,Lac La Biche,Lac La Biche,AB,Lac La Biche,Manual
+889,Lac Poulin,Lac Poulin,QC,Lac-Poulin,Manual
+890,Lac Saguay,Lac Saguay,QC,Lac-Saguay,CSD
+891,Lac Superieur,Lac Supérieur,QC,Lac-Supérieur,CSD
+892,Lac au Saumon,Lac-au-Saumon,QC,Lac-au-Saumon,CSD
+893,Lac aux Sables,Lac-aux-Sables,QC,Lac-aux-Sables,CSD
+894,Lac Beauport,Lac-Beauport,QC,Lac-Beauport,CSD
+895,Lac Bouchette,Lac-Bouchette,QC,Lac-Bouchette,CSD
+896,Lac Brome,Lac-Brome,QC,Lac-Brome,CSD
+897,Lac Delage,Lac-Delage,QC,Lac-Delage,CSD
+898,Lac des Aigles,Lac-des-Aigles,QC,Lac-des-Aigles,CSD
+899,Lac des ecorces,Lac-des-Écorces,QC,Lac-des-Écorces,CSD
+900,Lac des Plages,Lac-des-Plages,QC,Lac-des-Plages,CSD
+901,Lac des Seize Iles,Lac-des-Seize-Îles,QC,Lac-des-Seize-Îles,Manual
+902,Lac Drolet,Lac-Drolet,QC,Lac-Drolet,CSD
+903,Lac du Cerf,Lac-du-Cerf,QC,Lac-du-Cerf,Manual
+904,Lac Etchemin,Lac-Etchemin,QC,Lac-Etchemin,CSD
+905,Lac Huron,Lac-Huron,QC,Lac-Huron,Manual
+906,Lachute,Lachute,QC,Lachute,CSD
+907,Lac Jacques Cartier,Lac-Jacques-Cartier,QC,Lac-Jacques-Cartier,CSD
+908,Lac Megantic,Lac-Mégantic,QC,Lac-Mégantic,CSD
+909,Lacolle,Lacolle,QC,Lacolle,CSD
+910,Lacombe,Lacombe,AB,Lacombe,CSD
+911,Lac Poulin,Lac-Poulin,QC,Lac-Poulin,CSD
+912,Lac Saguay,Lac-Saguay,QC,Lac-Saguay,CSD
+913,Lac Sainte Marie,Lac-Sainte-Marie,QC,Lac-Sainte-Marie,CSD
+914,Lac Saint Joseph,Lac-Saint-Joseph,QC,Lac-Saint-Joseph,Manual
+915,Lac Sergent,Lac-Sergent,QC,Lac-Sergent,CSD
+916,Lac Simon,Lac-Simon,QC,Lac-Simon,CSD
+917,Lac Superieur,Lac-Supérieur,QC,Lac-Supérieur,Manual
+918,Ladner,Ladner,BC,Ladner,Manual
+919,Ladysmith,Ladysmith,BC,Ladysmith,CSD
+920,Lafond,Lafond,AB,Lafond,Manual
+921,Laforce,Laforce,QC,Laforce,CSD
+922,LaGlace,LaGlace,AB,La Glace,Manual
+923,Laird,Laird,ON,Laird,CSD
+924,Lake Country,Lake Country,BC,Lake Country,CSD
+925,Lake Louise,Lake Louise,AB,Lake Louise,Manual
+926,Lake of Bays,Lake of Bays,ON,Lake of Bays,CSD
+927,Lake of the Woods,Lake of the Woods,ON,Lake of the Woods,CSD
+928,Lakefield,Lakefield,ON,Lakefield,Manual
+929,Lakeshore,Lakeshore,ON,Lakeshore,CSD
+930,Lalemant,Lalemant,QC,Lalemant,Manual
+931,Lamarche,Lamarche,QC,Lamarche,CSD
+932,Lambton,Lambton,ON,Lambton,CSD
+933,Lambton,Lambton,QC,Lambton,CSD
+934,Lambton Shores,Lambton Shores,ON,Lambton Shores,CSD
+935,Lamont,Lamont,AB,Lamont,CSD
+936,Lanark,Lanark,ON,Lanark,PC
+937,Lanark Highlands,Lanark Highlands,ON,Lanark Highlands,Manual
+938,L'Ancienne Lorette,L'Ancienne-Lorette,QC,L'Ancienne-Lorette,CSD
+939,Landrienne,Landrienne,QC,Landrienne,CSD
+940,L'Ange Gardien,L'Ange-Gardien,QC,L'Ange-Gardien,CSD
+941,Langley,Langley,BC,Langley,CSD
+942,Lanigan,Lanigan,SK,Lanigan,CSD
+943,Lanoraie,Lanoraie,QC,Lanoraie,CSD
+944,Lansdowne,Lansdowne,ON,Lansdowne,Manual
+945,L'Anse Saint Jean,L'Anse-Saint-Jean,QC,L'Anse-Saint-Jean,CSD
+946,Lantier,Lantier,QC,Lantier,CSD
+947,Lantzville,Lantzville,BC,Lantzville,CSD
+948,Larder Lake,Larder Lake,ON,Larder Lake,CSD
+949,Lark Harbour,Lark Harbour,NL,Lark Harbour,Manual
+950,Larouche,Larouche,QC,Larouche,CSD
+951,LaSalle,LaSalle,ON,LaSalle,CSD
+952,L'Ascension,L'Ascension,QC,L'Ascension,CSD
+953,L'Ascension de Notre Seigneur,L'Ascension-de-Notre-Seigneur,QC,L'Ascension-de-Notre-Seigneur,CSD
+954,L'Assomption,L'Assomption,QC,L'Assomption,CSD
+955,Launay,Launay,QC,Launay,CSD
+956,Laurentian Hills,Laurentian Hills,ON,Laurentian Hills,Manual
+957,Laurier Station,Laurier-Station,QC,Laurier-Station,CSD
+958,Laurierville,Laurierville,QC,Laurierville,CSD
+959,Laval,Laval,QC,Laval,CSD
+960,Lavaltrie,Lavaltrie,QC,Lavaltrie,CSD
+961,L'Avenir,L'Avenir,QC,L'Avenir,CSD
+962,Laverlochere,Laverlochère,QC,Laverlochère,CSD
+963,Lavington,Lavington,BC,Lavington,Manual
+964,Lavoy,Lavoy,AB,Lavoy,Manual
+965,Lawrenceville,Lawrenceville,QC,Lawrenceville,CSD
+966,Laxton,Laxton,ON,Laxton,Manual
+967,Lazo,Lazo,BC,Lazo,Manual
+968,Le Granit,Le Granit,QC,Le Granit,Manual
+969,Leaf Rapids,Leaf Rapids,MB,Leaf Rapids,CSD
+970,Leamington,Leamington,ON,Leamington,CSD
+971,Lebel sur Quevillon,Lebel sur Quévillon,QC,Lebel-sur-Quévillon,Manual
+972,Lebel sur Quevillon,Lebel-sur-Quévillon,QC,Lebel-sur-Quévillon,CSD
+973,Leclercville,Leclercville,QC,Leclercville,CSD
+974,Leduc,Leduc,AB,Leduc,CSD
+975,Leeds and Grenville,Leeds and Grenville,ON,Leeds and Grenville,Manual
+976,Leeds and the Thousand Islands,Leeds and the Thousand Islands,ON,Leeds and the Thousand Islands,CSD
+977,Lefebvre,Lefebvre,QC,Lefebvre,CSD
+978,Lejeune,Lejeune,QC,Lejeune,CSD
+979,Lemberg,Lemberg,SK,Lemberg,CSD
+980,Lemieux,Lemieux,QC,Lemieux,CSD
+981,Lennox and Addington,Lennox and Addington,ON,Lennox and Addington,Manual
+982,L'epiphanie,L'Épiphanie,QC,L'Épiphanie,CSD
+983,LeRoy,LeRoy,SK,Leroy,Manual
+984,Les Basques,Les Basques,QC,Les Basques,Manual
+985,Les Bergeronnes,Les Bergeronnes,QC,Les Bergeronnes,CSD
+986,Les Coteaux,Les Coteaux,QC,Les Coteaux,CSD
+987,Les Escoumins,Les Escoumins,QC,Les Escoumins,CSD
+988,Les Hauteurs,Les Hauteurs,QC,Les Hauteurs,CSD
+989,Les Laurentides,Les Laurentides,QC,Les Laurentides,Manual
+990,Les Mechins,Les Méchins,QC,Les Méchins,CSD
+991,Les Sources,Les Sources,QC,Les Sources,Manual
+992,Les Cedres,Les Cèdres,QC,Les Cèdres,Manual
+993,Les Eboulements,Les Éboulements,QC,Les Éboulements,Manual
+994,Les Iles de la Madeleine,Les Îles-de-la-Madeleine,QC,Les Îles-de-la-Madeleine,Manual
+995,Leslieville,Leslieville,AB,Leslieville,Manual
+996,Lethbridge,Lethbridge,AB,Lethbridge,CSD
+997,Levis,Lévis,QC,Lévis,CSD
+998,Lewisporte,Lewisporte,NL,Lewisporte,CSD
+999,L'ile d'Orleans,L'Île-d'Orléans,QC,L'Île-d'Orléans,Manual
+1000,L'ile Perrot,L'Île-Perrot,QC,L'Île-Perrot,CSD
+1001,Lillooet,Lillooet,BC,Lillooet,CSD
+1002,Limerick,Limerick,ON,Limerick,Manual
+1003,Lincoln,Lincoln,ON,Lincoln,CSD
+1004,Lindbergh,Lindbergh,AB,Lindbergh,Manual
+1005,Linden,Linden,AB,Linden,CSD
+1006,Lindsay,Lindsay,ON,Lindsay,Manual
+1007,Lingwick,Lingwick,QC,Lingwick,CSD
+1008,Linton,Linton,QC,Linton,Manual
+1009,L'Isle aux Coudres,L'Isle-aux-Coudres,QC,L'Isle-aux-Coudres,CSD
+1010,L'Islet,L'Islet,QC,L'Islet,CSD
+1011,L'Isle Verte,L'Isle-Verte,QC,L'Isle-Verte,CSD
+1012,Listowel,Listowel,ON,Listowel,Manual
+1013,Lloydminster,Lloydminster,AB,Lloydminster,CD
+1014,Lochaber,Lochaber,QC,Lochaber,CSD
+1015,Lochaber Partie Ouest,Lochaber-Partie-Ouest,QC,Lochaber-Partie-Ouest,CSD
+1016,Lockeport,Lockeport,NS,Lockeport,CSD
+1017,Logan Lake,Logan Lake,BC,Logan Lake,CSD
+1018,London,London,ON,London,CSD
+1019,Lone Butte,Lone Butte,BC,Lone Butte,PC
+1020,Longford,Longford,ON,Longford,Manual
+1021,Longue Pointe de Mingan,Longue-Pointe-de-Mingan,QC,Longue-Pointe-de-Mingan,CSD
+1022,Longue Rive,Longue-Rive,QC,Longue-Rive,CSD
+1023,Longueuil,Longueuil,QC,Longueuil,CSD
+1024,Longview,Longview,AB,Longview,CSD
+1025,Lorraine,Lorraine,QC,Lorraine,CSD
+1026,Lorrainville,Lorrainville,QC,Lorrainville,CSD
+1027,Lotbiniere,Lotbinière,QC,Lotbinière,CSD
+1028,Louiseville,Louiseville,QC,Louiseville,CSD
+1029,Loyalist Township,Loyalist Township,ON,Loyalist Township,Manual
+1030,Lucan Biddulph,Lucan Biddulph,ON,Lucan Biddulph,CSD
+1031,Lucknow,Lucknow,ON,Lucknow,Manual
+1032,Lumby,Lumby,BC,Lumby,CSD
+1033,Lumsden,Lumsden,SK,Lumsden,CSD
+1034,Lunenburg,Lunenburg,NS,Lunenburg,CSD
+1035,Lynn Lake,Lynn Lake,MB,Lynn Lake,CSD
+1036,Lynton,Lynton,AB,Lynton,Manual
+1037,Lyster,Lyster,QC,Lyster,CSD
+1038,Lytton,Lytton,BC,Lytton,CSD
+1039,Macamic,Macamic,QC,Macamic,CSD
+1040,Machin,Machin,ON,Machin,CSD
+1041,Mackenzie,Mackenzie,BC,Mackenzie,CSD
+1042,Macklin,Macklin,SK,Macklin,CSD
+1043,Madawaska Valley,Madawaska Valley,ON,Madawaska Valley,CSD
+1044,Maddington Falls,Maddington Falls,QC,Maddington Falls,Manual
+1045,Madoc,Madoc,ON,Madoc,CSD
+1046,Magnetawan,Magnetawan,ON,Magnetawan,CSD
+1047,Magog,Magog,QC,Magog,CSD
+1048,Mahone Bay,Mahone Bay,NS,Mahone Bay,CSD
+1049,Maidstone,Maidstone,SK,Maidstone,CSD
+1050,Malahat,Malahat,BC,Malahat,Manual
+1051,Malahide,Malahide,ON,Malahide,CSD
+1052,Malartic,Malartic,QC,Malartic,CSD
+1053,Maliotenam,Maliotenam,QC,Maliotenam,CSD
+1054,Mallaig,Mallaig,AB,Mallaig,PC
+1055,Mallorytown,Mallorytown,ON,Mallorytown,Manual
+1056,Manawan,Manawan,QC,Manawan,CSD
+1057,Mandeville,Mandeville,QC,Mandeville,CSD
+1058,Manicouagan,Manicouagan,QC,Manicouagan,Manual
+1059,Manitoulin,Manitoulin,ON,Manitoulin,Manual
+1060,Manitouwadge,Manitouwadge,ON,Manitouwadge,CSD
+1061,Maniwaki,Maniwaki,QC,Maniwaki,CSD
+1062,Manning,Manning,AB,Manning,CSD
+1063,Mannville,Mannville,AB,Mannville,CSD
+1064,Manotick,Manotick,ON,Manotick,Manual
+1065,Manseau,Manseau,QC,Manseau,CSD
+1066,Mansfield et Pontefract,Mansfield-et-Pontefract,QC,Mansfield-et-Pontefract,CSD
+1067,Mansons Landing,Mansons Landing,BC,Mansons Landing,Manual
+1068,Maple Creek,Maple Creek,SK,Maple Creek,CSD
+1069,Maple Ridge,Maple Ridge,BC,Maple Ridge,CSD
+1070,Mapleton,Mapleton,ON,Mapleton,CSD
+1071,Marathon,Marathon,ON,Marathon,CSD
+1072,Marcelin,Marcelin,SK,Marcelin,CSD
+1073,Marguerite D'Youville,Marguerite D'Youville,QC,Marguérite-D'Youville,Manual
+1074,Maria,Maria,QC,Maria,CSD
+1075,Maria Chapdelaine,Maria-Chapdelaine,QC,Maria-Chapdelaine,Manual
+1076,Maricourt,Maricourt,QC,Maricourt,CSD
+1077,Marieville,Marieville,QC,Marieville,CSD
+1078,Mariposa,Mariposa,ON,Mariposa,Manual
+1079,Markdale,Markdale,ON,Markdale,Manual
+1080,Markerville,Markerville,AB,Markerville,PC
+1081,Markham,Markham,ON,Markham,CSD
+1082,Marmora and Lake,Marmora and Lake,ON,Marmora and Lake,Manual
+1083,Marsoui,Marsoui,QC,Marsoui,CSD
+1084,Marston,Marston,QC,Marston,CSD
+1085,Martensville,Martensville,SK,Martensville,CSD
+1086,Martinville,Martinville,QC,Martinville,CSD
+1087,Marystown,Marystown,NL,Marystown,CSD
+1088,Mascouche,Mascouche,QC,Mascouche,CSD
+1089,Mashteuiatsh,Mashteuiatsh,QC,Mashteuiatsh,CSD
+1090,Masset,Masset,BC,Masset,CSD
+1091,Massueville,Massueville,QC,Massueville,CSD
+1092,Matachewan,Matachewan,ON,Matachewan,CSD
+1093,Matagami,Matagami,QC,Matagami,CSD
+1094,Matane,Matane,QC,Matane,CSD
+1095,Matapedia,Matapédia,QC,Matapédia,Manual
+1096,Matheson,Matheson,ON,Matheson,Manual
+1097,Mattawa,Mattawa,ON,Mattawa,CSD
+1098,Maxwell,Maxwell,ON,Maxwell,Manual
+1099,Mayerthorpe,Mayerthorpe,AB,Mayerthorpe,CSD
+1100,Mayo,Mayo,QC,Mayo,CSD
+1101,McAdam,McAdam,NB,McAdam,CSD
+1102,McBride,McBride,BC,McBride,CSD
+1103,McDougall,McDougall,ON,McDougall,CSD
+1104,McGarry,McGarry,ON,McGarry,CSD
+1105,McKellar,McKellar,ON,McKellar,CSD
+1106,McLeese Lake,McLeese Lake,BC,McLeese Lake,PC
+1107,McMasterville,McMasterville,QC,McMasterville,CSD
+1108,McMurrich,McMurrich,ON,McMurrich,Manual
+1109,McNab,McNab,ON,McNab,Manual
+1110,Meadow Creek,Meadow Creek,BC,Meadow Creek,Manual
+1111,Meadow Lake,Meadow Lake,SK,Meadow Lake,CSD
+1112,Meaford,Meaford,ON,Meaford,CSD
+1113,Medicine Hat,Medicine Hat,AB,Medicine Hat,CSD
+1114,Melancthon,Melancthon,ON,Melancthon,CSD
+1115,Melbourne,Melbourne,QC,Melbourne,CSD
+1116,Melfort,Melfort,SK,Melfort,CSD
+1117,Melita,Melita,MB,Melita,CSD
+1118,Melville,Melville,SK,Melville,CSD
+1119,Memramcook,Memramcook,NB,Memramcook,CSD
+1120,Mercier,Mercier,QC,Mercier,CSD
+1121,Merritt,Merritt,BC,Merritt,CSD
+1122,Messines,Messines,QC,Messines,CSD
+1123,Metabetchouan  Lac a la Croix,Métabetchouan--Lac-à-la-Croix,QC,Métabetchouan--Lac-à-la-Croix,CSD
+1124,Metchosin,Metchosin,BC,Metchosin,CSD
+1125,Metis sur Mer,Metis sur Mer,QC,Métis-sur-Mer,Manual
+1126,Michipicoten,Michipicoten,ON,Michipicoten,Manual
+1127,Middlesex,Middlesex,ON,Middlesex,Manual
+1128,Middlesex Centre,Middlesex Centre,ON,Middlesex Centre,CSD
+1129,Middleton,Middleton,NS,Middleton,CSD
+1130,Midhurst,Midhurst,ON,Midhurst,Manual
+1131,Midland,Midland,ON,Midland,CSD
+1132,Midway,Midway,BC,Midway,CSD
+1133,Milan,Milan,QC,Milan,CSD
+1134,Mildmay,Mildmay,ON,Mildmay,Manual
+1135,Mildred Lake,Mildred Lake,AB,Mildred Lake,Manual
+1136,Milk River,Milk River,AB,Milk River,CSD
+1137,Mill Bay,Mill Bay,BC,Mill Bay,PC
+1138,Millbank,Millbank,ON,Millbank,Manual
+1139,Millbrook,Millbrook,ON,Millbrook,Manual
+1140,Mille Isles,Mille-Isles,QC,Mille-Isles,CSD
+1141,Miller Lake,Miller Lake,ON,Miller Lake,Manual
+1142,Millertown,Millertown,NL,Millertown,CSD
+1143,Millet,Millet,AB,Millet,CSD
+1144,Milo,Milo,AB,Milo,CSD
+1145,Milton,Milton,ON,Milton,CSD
+1146,Milverton,Milverton,ON,Milverton,Manual
+1147,Minburn,Minburn,AB,Minburn,Manual
+1148,Minden,Minden,ON,Minden,Manual
+1149,Minden Hills,Minden Hills,ON,Minden Hills,CSD
+1150,Minett,Minett,ON,Minett,Manual
+1151,Mingan,Mingan,QC,Mingan,CSD
+1152,Minnedosa,Minnedosa,MB,Minnedosa,CSD
+1153,Minto,Minto,NB,Minto,CSD
+1154,Minto,Minto,ON,Minto,CSD
+1155,Mirabel,Mirabel,QC,Mirabel,CSD
+1156,Miramichi,Miramichi,NB,Miramichi,CSD
+1157,Missanabie Cree,Missanabie Cree,ON,Missanabie,Manual
+1158,Mission,Mission,BC,Mission,CSD
+1159,Mississauga,Mississauga,ON,Mississauga,CSD
+1160,Mississaugas of Scugog Island,Mississaugas of Scugog Island,ON,Mississaugas of Scugog Island,CSD
+1161,Mississippi Mills,Mississippi Mills,ON,Mississippi Mills,CSD
+1162,Mistissini,Mistissini,QC,Mistissini,CSD
+1163,Mitchell,Mitchell,ON,Mitchell,PC
+1164,Moffet,Moffet,QC,Moffet,CSD
+1165,Monaghan,Monaghan,ON,Monaghan,Manual
+1166,Moncton,Moncton,NB,Moncton,CSD
+1167,Mono,Mono,ON,Mono,CSD
+1168,Montague,Montague,PE,Montague,CSD
+1169,Montague,Montague,ON,Montague,CSD
+1170,Montcalm,Montcalm,QC,Montcalm,CSD
+1171,Mont Carmel,Mont-Carmel,QC,Mont-Carmel,CSD
+1172,Montcerf Lytton,Montcerf-Lytton,QC,Montcerf-Lytton,CSD
+1173,Monte Creek,Monte Creek,BC,Monte Creek,Manual
+1174,Montebello,Montebello,QC,Montebello,CSD
+1175,Mont Joli,Mont-Joli,QC,Mont-Joli,CSD
+1176,Mont Laurier,Mont-Laurier,QC,Mont-Laurier,CSD
+1177,Montmagny,Montmagny,QC,Montmagny,CSD
+1178,Montpellier,Montpellier,QC,Montpellier,CSD
+1179,Montreal,Montreal,QC,Montréal,CSD
+1180,Montreal Est,Montréal-Est,QC,Montréal-Est,CSD
+1181,Mont Royal,Mont-Royal,QC,Mont-Royal,CSD
+1182,Mont Saint Gregoire,Mont-Saint-Grégoire,QC,Mont-Saint-Grégoire,CSD
+1183,Mont Saint Hilaire,Mont-Saint-Hilaire,QC,Mont-Saint-Hilaire,CSD
+1184,Mont Saint Michel,Mont-Saint-Michel,QC,Mont-Saint-Michel,CSD
+1185,Mont Saint Pierre,Mont-Saint-Pierre,QC,Mont-Saint-Pierre,CSD
+1186,Mont Tremblant,Mont-Tremblant,QC,Mont-Tremblant,CSD
+1187,Moonbeam,Moonbeam,ON,Moonbeam,CSD
+1188,Mooretown,Mooretown,ON,Mooretown,Manual
+1189,Moose Creek,Moose Creek,ON,Moose Creek,Manual
+1190,Moose Jaw,Moose Jaw,SK,Moose Jaw,CSD
+1191,Moosonee,Moosonee,ON,Moosonee,CSD
+1192,Morden,Morden,MB,Morden,CSD
+1193,Morin Heights,Morin-Heights,QC,Morin-Heights,CSD
+1194,Morinville,Morinville,AB,Morinville,CSD
+1195,Morley,Morley,AB,Morley,CSD
+1196,Morley,Morley,ON,Morley,Manual
+1197,Morris,Morris,MB,Morris,CSD
+1198,Morris,Morris,ON,Morris,CSD
+1199,Mossleigh,Mossleigh,AB,Mossleigh,Manual
+1200,Mount Albert,Mount Albert,ON,Mount Albert,Manual
+1201,Mount Currie,Mount Currie,BC,Mount Currie,CSD
+1202,Mount Forest,Mount Forest,ON,Mount Forest,Manual
+1203,Mount Kidd,Mount Kidd,AB,Mount Kidd,Manual
+1204,Mount Lehman,Mount Lehman,BC,Mount Lehman,Manual
+1205,Mount Pearl,Mount Pearl,NL,Mount Pearl,CSD
+1206,Mount Pleasant,Mount Pleasant,ON,Mount Pleasant,Manual
+1207,Mountain View,Mountain View,AB,Mountain View,PC
+1208,Mt Pleasant,Mt Pleasant,ON,Mt Pleasant,Manual
+1209,Muenster,Muenster,SK,Muenster,CSD
+1210,Mulgrave et Derry,Mulgrave et Derry,QC,Mulgrave-et-Derry,CSD
+1211,Mulmur,Mulmur,ON,Mulmur,CSD
+1212,Mundare,Mundare,AB,Mundare,CSD
+1213,Murdochville,Murdochville,QC,Murdochville,CSD
+1214,Muskoka,Muskoka,ON,Muskoka,Manual
+1215,Muskoka Lakes,Muskoka Lakes,ON,Muskoka Lakes,CSD
+1216,Myrnam,Myrnam,AB,Myrnam,CSD
+1217,Nackawic,Nackawic,NB,Nackawic,CSD
+1218,Nain,Nain,NL,Nain,CSD
+1219,Nairn and Hyman,Nairn and Hyman,ON,Nairn and Hyman,Manual
+1220,Nakusp,Nakusp,BC,Nakusp,CSD
+1221,Namur,Namur,QC,Namur,CSD
+1222,Nanaimo,Nanaimo,BC,Nanaimo,CSD
+1223,Nantes,Nantes,QC,Nantes,CSD
+1224,Nanton,Nanton,AB,Nanton,CSD
+1225,Napanee,Napanee,ON,Napanee,Manual
+1226,Napierville,Napierville,QC,Napierville,CSD
+1227,Natashquan,Natashquan,QC,Natashquan,CSD
+1228,Neebing,Neebing,ON,Neebing,CSD
+1229,Neepawa,Neepawa,MB,Neepawa,CSD
+1230,Nelson,Nelson,BC,Nelson,CSD
+1231,Nemaska,Nemaska,QC,Nemaska,CSD
+1232,Neudorf,Neudorf,SK,Neudorf,CSD
+1233,Neustadt,Neustadt,ON,Neustadt,PC
+1234,Neuville,Neuville,QC,Neuville,CSD
+1235,New Carlisle,New Carlisle,QC,New Carlisle,CSD
+1236,New Credit,New Credit,ON,New Credit,Manual
+1237,New Denver,New Denver,BC,New Denver,CSD
+1238,New Glasgow,New Glasgow,NS,New Glasgow,CSD
+1239,New Norway,New Norway,AB,New Norway,Manual
+1240,New Richmond,New Richmond,QC,New Richmond,CSD
+1241,New Tecumseth,New Tecumseth,ON,New Tecumseth,CSD
+1242,New Westminster,New Westminster,BC,New Westminster,CSD
+1243,Newbury,Newbury,ON,Newbury,CSD
+1244,Newmarket,Newmarket,ON,Newmarket,CSD
+1245,Newport,Newport,QC,Newport,CSD
+1246,Niagara Falls,Niagara Falls,ON,Niagara Falls,CSD
+1247,Niagara on the Lake,Niagara on the Lake,ON,Niagara-on-the-Lake,CSD
+1248,Nicolet,Nicolet,QC,Nicolet,CSD
+1249,Nimpo Lake,Nimpo Lake,BC,Nimpo Lake,Manual
+1250,Nipawin,Nipawin,SK,Nipawin,CSD
+1251,Nipigon,Nipigon,ON,Nipigon,CSD
+1252,Nipissing,Nipissing,ON,Nipissing,CSD
+1253,Nisku,Nisku,AB,Nisku,Manual
+1254,Nominingue,Nominingue,QC,Nominingue,CSD
+1255,Nordegg,Nordegg,AB,Nordegg,Manual
+1256,Norfolk,Norfolk,ON,Norfolk,CD
+1257,Norfolk County,Norfolk County,ON,Norfolk County,CSD
+1258,Normandin,Normandin,QC,Normandin,CSD
+1259,Normetal,Normétal,QC,Normétal,Manual
+1260,Norris Arm,Norris Arm,NL,Norris Arm,CSD
+1261,Norris Point,Norris Point,NL,Norris Point,CSD
+1262,North Battleford,North Battleford,SK,North Battleford,CSD
+1263,North Bay,North Bay,ON,North Bay,CSD
+1264,North Delta,North Delta,BC,North Delta,Manual
+1265,North Dumfries,North Dumfries,ON,North Dumfries,CSD
+1266,North Dundas,North Dundas,ON,North Dundas,Manual
+1267,North Frontenac,North Frontenac,ON,North Frontenac,Manual
+1268,North Glengarry,North Glengarry,ON,North Glengarry,Manual
+1269,North Grenville,North Grenville,ON,North Grenville,Manual
+1270,North Hatley,North Hatley,QC,North Hatley,CSD
+1271,North Huron,North Huron,ON,North Huron,Manual
+1272,North Kawartha,North Kawartha,ON,North Kawartha,CSD
+1273,North Perth,North Perth,ON,North Perth,CSD
+1274,North Portal,North Portal,SK,North Portal,CSD
+1275,North Spirit Lake,North Spirit Lake,ON,North Spirit Lake,Manual
+1276,North Stormont,North Stormont,ON,North Stormont,Manual
+1277,North Vancouver,North Vancouver,BC,North Vancouver,CSD
+1278,Northumberland,Northumberland,ON,Northumberland,Manual
+1279,Northville,Northville,ON,Northville,Manual
+1280,Norwich,Norwich,ON,Norwich,CSD
+1281,Norwood,Norwood,ON,Norwood,Manual
+1282,Notre Dame de Ham,Notre-Dame-de-Ham,QC,Notre-Dame-de-Ham,Manual
+1283,Notre Dame de la Merci,Notre-Dame-de-la-Merci,QC,Notre-Dame-de-la-Merci,CSD
+1284,Notre Dame de la Paix,Notre-Dame-de-la-Paix,QC,Notre-Dame-de-la-Paix,CSD
+1285,Notre Dame de la Salette,Notre-Dame-de-la-Salette,QC,Notre-Dame-de-la-Salette,CSD
+1286,Notre Dame de Lorette,Notre-Dame-de-Lorette,QC,Notre-Dame-de-Lorette,CSD
+1287,Notre Dame de Lourdes,Notre-Dame-de-Lourdes,QC,Notre-Dame-de-Lourdes,CSD
+1288,Notre Dame de Montauban,Notre-Dame-de-Montauban,QC,Notre-Dame-de-Montauban,CSD
+1289,Notre Dame de Pontmain,Notre-Dame-de-Pontmain,QC,Notre-Dame-de-Pontmain,CSD
+1290,Notre Dame des Anges,Notre-Dame-des-Anges,QC,Notre-Dame-des-Anges,Manual
+1291,Notre Dame des Bois,Notre-Dame-des-Bois,QC,Notre-Dame-des-Bois,CSD
+1292,Notre Dame des Pins,Notre-Dame-des-Pins,QC,Notre-Dame-des-Pins,CSD
+1293,Notre Dame des Prairies,Notre-Dame-des-Prairies,QC,Notre-Dame-des-Prairies,CSD
+1294,Notre Dame de Stanbridge,Notre-Dame-de-Stanbridge,QC,Notre-Dame-de-Stanbridge,CSD
+1295,Notre Dame du Bon Conseil,Notre-Dame-du-Bon-Conseil,QC,Notre-Dame-du-Bon-Conseil,CSD
+1296,Notre Dame du Laus,Notre-Dame-du-Laus,QC,Notre-Dame-du-Laus,CSD
+1297,Notre Dame du Mont Carmel,Notre-Dame-du-Mont-Carmel,QC,Notre-Dame-du-Mont-Carmel,CSD
+1298,Notre Dame du Nord,Notre-Dame-du-Nord,QC,Notre-Dame-du-Nord,CSD
+1299,Notre Dame du Portage,Notre-Dame-du-Portage,QC,Notre-Dame-du-Portage,CSD
+1300,Notre Dame du Rosaire,Notre-Dame-du-Rosaire,QC,Notre-Dame-du-Rosaire,CSD
+1301,Nouvelle,Nouvelle,QC,Nouvelle,CSD
+1302,Noyan,Noyan,QC,Noyan,CSD
+1303,Oakdale,Oakdale,ON,Oakdale,Manual
+1304,Oakland,Oakland,ON,Oakland,Manual
+1305,Oakville,Oakville,ON,Oakville,CSD
+1306,Obedjiwan,Obedjiwan,QC,Obedjiwan,CSD
+1307,Odanak,Odanak,QC,Odanak,CSD
+1308,Ogden,Ogden,QC,Ogden,CSD
+1309,Ohsweken,Ohsweken,ON,Ohsweken,Manual
+1310,Oil Springs,Oil Springs,ON,Oil Springs,CSD
+1311,Ojibway,Ojibway,ON,Ojibway,Manual
+1312,Oka,Oka,QC,Oka,CSD
+1313,Okanagan Falls,Okanagan Falls,BC,Okanagan Falls,PC
+1314,Okotoks,Okotoks,AB,Okotoks,CSD
+1315,Olds,Olds,AB,Olds,CSD
+1316,Oliver,Oliver,BC,Oliver,CSD
+1317,Omemee,Omemee,ON,Omemee,Manual
+1318,Opasatika,Opasatika,ON,Opasatika,Manual
+1319,Orangeville,Orangeville,ON,Orangeville,CSD
+1320,Orford,Orford,QC,Orford,CSD
+1321,Orillia,Orillia,ON,Orillia,CSD
+1322,Ormstown,Ormstown,QC,Ormstown,CSD
+1323,Oro Medonte,Oro Medonte,ON,Oro-Medonte,CSD
+1324,Oromocto,Oromocto,NB,Oromocto,CSD
+1325,Oshawa,Oshawa,ON,Oshawa,CSD
+1326,Osoyoos,Osoyoos,BC,Osoyoos,CSD
+1327,Otonabee,Otonabee,ON,Otonabee,Manual
+1328,Ottawa,Ottawa,ON,Ottawa,CSD
+1329,Otter Lake,Otter Lake,QC,Otter Lake,Manual
+1330,Otterburn Park,Otterburn Park,QC,Otterburn Park,CSD
+1331,,Oujé-Bougoumou,QC,Oujé-Bougoumou,Manual
+1332,Owen Sound,Owen Sound,ON,Owen Sound,CSD
+1333,Oxbow,Oxbow,SK,Oxbow,CSD
+1334,Oxford,Oxford,ON,Oxford,CSD
+1335,Oxford,Oxford,NS,Oxford,CSD
+1336,Oyen,Oyen,AB,Oyen,CSD
+1337,Packington,Packington,QC,Packington,Manual
+1338,Paddockwood,Paddockwood,SK,Paddockwood,CSD
+1339,Paisley,Paisley,ON,Paisley,Manual
+1340,Palmarolle,Palmarolle,QC,Palmarolle,CSD
+1341,Pangnirtung,Pangnirtung,NU,Pangnirtung,Manual
+1342,Panorama,Panorama,BC,Panorama,Manual
+1343,Papineau,Papineau,QC,Papineau,Manual
+1344,Papineauville,Papineauville,QC,Papineauville,CSD
+1345,Paradise,Paradise,NL,Paradise,CSD
+1346,Paris,Paris,ON,Paris,Manual
+1347,Parisville,Parisville,QC,Parisville,CSD
+1348,Parksville,Parksville,BC,Parksville,CSD
+1349,Parrsboro,Parrsboro,NS,Parrsboro,CSD
+1350,Parry Sound,Parry Sound,ON,Parry Sound,CSD
+1351,Pasadena,Pasadena,NL,Pasadena,CSD
+1352,Paspebiac,Paspébiac,QC,Paspébiac,CSD
+1353,Peace River,Peace River,AB,Peace River,CSD
+1354,Peachland,Peachland,BC,Peachland,CSD
+1355,Peawanuck,Peawanuck,ON,Peawanuck,CSD
+1356,Peel,Peel,ON,Peel,CSD
+1357,Peerless Lake,Peerless Lake,AB,Peerless Lake,PC
+1358,Pelee,Pelee,ON,Pelee,CSD
+1359,Pelham,Pelham,ON,Pelham,CSD
+1360,Pemberton,Pemberton,BC,Pemberton,CSD
+1361,Pembroke,Pembroke,ON,Pembroke,CSD
+1362,Penetanguishene,Penetanguishene,ON,Penetanguishene,CSD
+1363,Penhold,Penhold,AB,Penhold,CSD
+1364,Penticton,Penticton,BC,Penticton,CSD
+1365,Percy,Percy,ON,Percy,Manual
+1366,Peribonka,Péribonka,QC,Péribonka,CSD
+1367,Perry,Perry,ON,Perry,CSD
+1368,Perth,Perth,ON,Perth,CSD
+1369,Perth East,Perth East,ON,Perth East,CSD
+1370,Perth South,Perth South,ON,Perth South,CSD
+1371,Pessamit,Pessamit,QC,Pessamit,CSD
+1372,Petawawa,Petawawa,ON,Petawawa,CSD
+1373,Peterborough,Peterborough,ON,Peterborough,CSD
+1374,Petitcodiac,Petitcodiac,NB,Petitcodiac,CSD
+1375,Petite Riviere Saint Francois,Petite-Rivière-Saint-François,QC,Petite-Rivière-Saint-François,CSD
+1376,Petit Saguenay,Petit-Saguenay,QC,Petit-Saguenay,CSD
+1377,Petrolia,Petrolia,ON,Petrolia,CSD
+1378,Petty Harbour,Petty Harbour,NL,Petty Harbour,Manual
+1379,Picard,Picard,QC,Picard,CSD
+1380,Pickering,Pickering,ON,Pickering,CSD
+1381,Pickle Lake,Pickle Lake,ON,Pickle Lake,CSD
+1382,Pictou,Pictou,NS,Pictou,CSD
+1383,Picture Butte,Picture Butte,AB,Picture Butte,CSD
+1384,Piedmont,Piedmont,QC,Piedmont,CSD
+1385,Pierreville,Pierreville,QC,Pierreville,CSD
+1386,Pike River,Pike River,QC,Pike River,CSD
+1387,Pikogan,Pikogan,QC,Pikogan,Manual
+1388,Pikwakanagan,Pikwakanagan,ON,Pikwàkanagàn,Manual
+1389,Pinawa,Pinawa,MB,Pinawa,CSD
+1390,Pincher Creek,Pincher Creek,AB,Pincher Creek,CSD
+1391,Pincourt,Pincourt,QC,Pincourt,CSD
+1392,Pine Falls,Pine Falls,MB,Pine Falls,Manual
+1393,Pine Lake,Pine Lake,AB,Pine Lake,Manual
+1394,Piopolis,Piopolis,QC,Piopolis,CSD
+1395,Pitt Meadows,Pitt Meadows,BC,Pitt Meadows,CSD
+1396,Placentia,Placentia,NL,Placentia,CSD
+1397,Plaisance,Plaisance,QC,Plaisance,CSD
+1398,Plamondon,Plamondon,AB,Plamondon,PC
+1399,Plessisville,Plessisville,QC,Plessisville,CSD
+1400,Plummer Additional,Plummer Additional,ON,Plummer Additional,Manual
+1401,Plympton,Plympton,ON,Plympton,Manual
+1402,Pohenegamook,Pohénégamook,QC,Pohénégamook,CSD
+1403,Point Clark,Point Clark,ON,Point Clark,Manual
+1404,Point Edward,Point Edward,ON,Point Edward,CSD
+1405,Pointe a la Croix,Pointe a la Croix,QC,Pointe-à-la-Croix,CSD
+1406,Pointe a la Croix,Pointe-à-la-Croix,QC,Pointe-à-la-Croix,CSD
+1407,Pointe aux Outardes,Pointe-aux-Outardes,QC,Pointe-aux-Outardes,CSD
+1408,Pointe Calumet,Pointe-Calumet,QC,Pointe-Calumet,CSD
+1409,Pointe Claire,Pointe-Claire,QC,Pointe-Claire,CSD
+1410,Pointe des Cascades,Pointe-des-Cascades,QC,Pointe-des-Cascades,CSD
+1411,Pointe Fortune,Pointe-Fortune,QC,Pointe-Fortune,CSD
+1412,Pointe Lebel,Pointe-Lebel,QC,Pointe-Lebel,CSD
+1413,Pond Inlet,Pond Inlet,NU,Pond Inlet,Manual
+1414,Ponoka,Ponoka,AB,Ponoka,CSD
+1415,Pontiac,Pontiac,QC,Pontiac,CSD
+1416,Pont Rouge,Pont-Rouge,QC,Pont-Rouge,CSD
+1417,Poplar Hill,Poplar Hill,ON,Poplar Hill,Manual
+1418,Port Alberni,Port Alberni,BC,Port Alberni,CSD
+1419,Port au Choix,Port au Choix,NL,Port au Choix,Manual
+1420,Port Blandford,Port Blandford,NL,Port Blandford,CSD
+1421,Port Carling,Port Carling,ON,Port Carling,Manual
+1422,Port Colborne,Port Colborne,ON,Port Colborne,CSD
+1423,Port Coquitlam,Port Coquitlam,BC,Port Coquitlam,CSD
+1424,Port Dover,Port Dover,ON,Port Dover,Manual
+1425,Port Elgin,Port Elgin,ON,Port Elgin,CSD
+1426,Port Franks,Port Franks,ON,Port Franks,Manual
+1427,Port Hardy,Port Hardy,BC,Port Hardy,CSD
+1428,Port Hope,Port Hope,ON,Port Hope,CSD
+1429,Port Lambton,Port Lambton,ON,Port Lambton,Manual
+1430,Port McNeill,Port McNeill,BC,Port McNeill,CSD
+1431,Port Moody,Port Moody,BC,Port Moody,CSD
+1432,Port Perry,Port Perry,ON,Port Perry,Manual
+1433,Port Renfrew,Port Renfrew,BC,Port Renfrew,PC
+1434,Port Saunders,Port Saunders,NL,Port Saunders,CSD
+1435,Portage la Prairie,Portage la Prairie,MB,Portage la Prairie,CSD
+1436,Portage du Fort,Portage-du-Fort,QC,Portage-du-Fort,CSD
+1437,Port Cartier,Port-Cartier,QC,Port-Cartier,CSD
+1438,Portneuf,Portneuf,QC,Portneuf,CSD
+1439,Portneuf sur Mer,Portneuf-sur-Mer,QC,Portneuf-sur-Mer,CSD
+1440,Potton,Potton,QC,Potton,CSD
+1441,Poularies,Poularies,QC,Poularies,CSD
+1442,Powassan,Powassan,ON,Powassan,CSD
+1443,Powell River,Powell River,BC,Powell River,CSD
+1444,Preeceville,Preeceville,SK,Preeceville,CSD
+1445,Preissac,Preissac,QC,Preissac,CSD
+1446,Prescott,Prescott,ON,Prescott,CSD
+1447,Prescott and Russell,Prescott and Russell,ON,Prescott and Russell,Manual
+1448,Prevost,Prévost,QC,Prévost,CSD
+1449,Priceville,Priceville,ON,Priceville,Manual
+1450,Prince Albert,Prince Albert,SK,Prince Albert,CSD
+1451,Prince Edward,Prince Edward,ON,Prince Edward,Manual
+1452,Prince Edward County,Prince Edward County,ON,Prince Edward County,CSD
+1453,Prince George,Prince George,BC,Prince George,CSD
+1454,Prince Rupert,Prince Rupert,BC,Prince Rupert,CSD
+1455,Prince William,Prince William,NB,Prince William,CSD
+1456,Princeton,Princeton,BC,Princeton,CSD
+1457,Princeville,Princeville,QC,Princeville,CSD
+1458,Proton,Proton,ON,Proton,Manual
+1459,Provost,Provost,AB,Provost,CSD
+1460,Puslinch,Puslinch,ON,Puslinch,CSD
+1461,Puvirnituq,Puvirnituq,QC,Puvirnituq,CSD
+1462,Qualicum Beach,Qualicum Beach,BC,Qualicum Beach,CSD
+1463,Quaqtaq,Quaqtaq,QC,Quaqtaq,CSD
+1464,Quathiaski Cove,Quathiaski Cove,BC,Quathiaski Cove,PC
+1465,Quebec City,Quebec City,QC,Québec City,Manual
+1466,Quebec City,Québec City,QC,Québec City,Manual
+1467,Queen Charlotte City,Queen Charlotte City,BC,Queen Charlotte City,Manual
+1468,Quesnel,Quesnel,BC,Quesnel,CSD
+1469,Quigley,Quigley,AB,Quigley,Manual
+1470,Quinte West,Quinte West,ON,Quinte West,CSD
+1471,Quispamsis,Quispamsis,NB,Quispamsis,CSD
+1472,Racine,Racine,QC,Racine,CSD
+1473,Radium Hot Springs,Radium Hot Springs,BC,Radium Hot Springs,CSD
+1474,Radium Hot Springs,Radium Hot Springs,BC,Radium Hot Springs,Manual
+1475,RadiumHotSprings,RadiumHotSprings,BC,Radium Hot Springs,Manual
+1476,Radville,Radville,SK,Radville,CSD
+1477,Ragueneau,Ragueneau,QC,Ragueneau,CSD
+1478,Rainbow Lake,Rainbow Lake,AB,Rainbow Lake,CSD
+1479,Rainy River,Rainy River,ON,Rainy River,CSD
+1480,Ramara,Ramara,ON,Ramara,CSD
+1481,Ramea,Ramea,NL,Ramea,CSD
+1482,Ranfurly,Ranfurly,AB,Ranfurly,Manual
+1483,Rankin Inlet,Rankin Inlet,NU,Rankin Inlet,CSD
+1484,Rapide Danseur,Rapide-Danseur,QC,Rapide-Danseur,CSD
+1485,Rapides des Joachims,Rapides-des-Joachims,QC,Rapides-des-Joachims,CSD
+1486,Ravenswood,Ravenswood,ON,Ravenswood,Manual
+1487,Rawdon,Rawdon,QC,Rawdon,CSD
+1488,Raymond,Raymond,AB,Raymond,CSD
+1489,Red Deer,Red Deer,AB,Red Deer,CSD
+1490,Red Lake,Red Lake,ON,Red Lake,CSD
+1491,Red Rock,Red Rock,ON,Red Rock,CSD
+1492,Redcliff,Redcliff,AB,Redcliff,CSD
+1493,Redvers,Redvers,SK,Redvers,CSD
+1494,Redwood Meadows,Redwood Meadows,AB,Redwood Meadows,Manual
+1495,Regina,Regina,SK,Regina,CSD
+1496,Renfrew,Renfrew,ON,Renfrew,CSD
+1497,Repentigny,Repentigny,QC,Repentigny,CSD
+1498,Revelstoke,Revelstoke,BC,Revelstoke,CSD
+1499,Rexton,Rexton,NB,Rexton,CSD
+1500,Richard s Landing,Richard s Landing,ON,Richards Landing,Manual
+1501,Richards Landing,Richards Landing,ON,Richards Landing,Manual
+1502,Richelieu,Richelieu,QC,Richelieu,CSD
+1503,Richmond,Richmond,BC,Richmond,CSD
+1504,Richmond,Richmond,QC,Richmond,CSD
+1505,Richmond Hill,Richmond Hill,ON,Richmond Hill,CSD
+1506,Rideau Lakes,Rideau Lakes,ON,Rideau Lakes,CSD
+1507,Ridgetown,Ridgetown,ON,Ridgetown,Manual
+1508,Rigaud,Rigaud,QC,Rigaud,CSD
+1509,Rimbey,Rimbey,AB,Rimbey,CSD
+1510,Rimouski,Rimouski,QC,Rimouski,CSD
+1511,Rimouski Neigette,Rimouski Neigette,QC,Rimouski-Neigette,Manual
+1512,Rimouski Neigette,Rimouski-Neigette,QC,Rimouski-Neigette,Manual
+1513,Ripley,Ripley,ON,Ripley,Manual
+1514,Ripon,Ripon,QC,Ripon,CSD
+1515,Riverview,Riverview,NB,Riverview,CSD
+1516,Riverview,Riverview,AB,Riverview,CSD
+1517,Riviere Beaudette,Riviere Beaudette,QC,Rivière-Beaudette,CSD
+1518,Riviere a Claude,Rivière-à-Claude,QC,Rivière-à-Claude,CSD
+1519,Riviere a Pierre,Rivière-à-Pierre,QC,Rivière-à-Pierre,CSD
+1520,Riviere au Tonnerre,Rivière-au-Tonnerre,QC,Rivière-au-Tonnerre,CSD
+1521,Riviere Bleue,Rivière-Bleue,QC,Rivière-Bleue,CSD
+1522,Riviere du Loup,Rivière-du-Loup,QC,Rivière-du-Loup,CSD
+1523,Riviere Ouelle,Rivière-Ouelle,QC,Rivière-Ouelle,CSD
+1524,Riviere Rouge,Rivière-Rouge,QC,Rivière-Rouge,CSD
+1525,Riviere Saint Jean,Rivière-Saint-Jean,QC,Rivière-Saint-Jean,CSD
+1526,Robert Cliche,Robert Cliche,QC,Robert-Cliche,Manual
+1527,Robert Cliche,Robert-Cliche,QC,Robert-Cliche,Manual
+1528,Roberts Creek,Roberts Creek,BC,Roberts Creek,PC
+1529,Roberval,Roberval,QC,Roberval,CSD
+1530,Rochebaucourt,Rochebaucourt,QC,Rochebaucourt,CSD
+1531,Rockport,Rockport,ON,Rockport,Manual
+1532,Rocky Mountain House,Rocky Mountain House,AB,Rocky Mountain House,CSD
+1533,Roquemaure,Roquemaure,QC,Roquemaure,CSD
+1534,Rosalind,Rosalind,AB,Rosalind,Manual
+1535,Rosedale,Rosedale,BC,Rosedale,CSD
+1536,Rosemere,Rosemère,QC,Rosemère,CSD
+1537,Rosetown,Rosetown,SK,Rosetown,CSD
+1538,Rosser,Rosser,MB,Rosser,CSD
+1539,Rossland,Rossland,BC,Rossland,CSD
+1540,Rosthern,Rosthern,SK,Rosthern,CSD
+1541,Rothesay,Rothesay,NB,Rothesay,CSD
+1542,Rougemont,Rougemont,QC,Rougemont,CSD
+1543,Round Hill,Round Hill,AB,Round Hill,PC
+1544,Roussillon,Roussillon,QC,Roussillon,Manual
+1545,Rouville,Rouville,QC,Rouville,Manual
+1546,Rouyn Noranda,Rouyn-Noranda,QC,Rouyn-Noranda,CSD
+1547,Roxton,Roxton,QC,Roxton,CSD
+1548,Roxton Falls,Roxton Falls,QC,Roxton Falls,CSD
+1549,Roxton Pond,Roxton Pond,QC,Roxton Pond,CSD
+1550,Royston,Royston,BC,Royston,PC
+1551,Russell,Russell,ON,Russell,CSD
+1552,Rutherford,Rutherford,ON,Rutherford,Manual
+1553,Saanichton,Saanichton,BC,Saanichton,Manual
+1554,Sachs Harbour,Sachs Harbour,NT,Sachs Harbour,Manual
+1555,Sackville,Sackville,NB,Sackville,CSD
+1556,Sacre Coeur,Sacre Coeur,QC,Sacré-Coeur,Manual
+1557,Sacre Coeur,Sacré Coeur,QC,Sacré-Coeur,CSD
+1558,Sacre Coeur,Sacré-Coeur,QC,Sacré-Coeur,CSD
+1559,Saddle Lake,Saddle Lake,AB,Saddle Lake,Manual
+1560,Sagamok,Sagamok,ON,Sagamok,CSD
+1561,Sagard,Sagard,QC,Sagard,CSD
+1562,Saguenay,Saguenay,QC,Saguenay,CSD
+1563,Saint Andre,Saint Andre,QC,Saint-André,Manual
+1564,Saint Andrews,Saint Andrews,NB,Saint Andrews,CSD
+1565,Saint Charles de Bourget,Saint Charles de Bourget,QC,Saint-Charles-de-Bourget,CSD
+1566,Saint edouard,Saint edouard,QC,Saint-Édouard,CSD
+1567,Saint Eusebe,Saint Eusebe,QC,Saint-Eusèbe,Manual
+1568,Saint Ferreol les Neiges,Saint Ferreol les Neiges,QC,Saint-Ferréol-les-Neiges,CSD
+1569,Saint Gedeon,Saint Gedeon,QC,Saint-Gédéon,Manual
+1570,Saint George,Saint George,NB,Saint George,CSD
+1571,Saint George,Saint George,ON,St. George,Manual
+1572,Saint Henri de Taillon,Saint Henri de Taillon,QC,Saint-Henri-de-Taillon,CSD
+1573,Saint John,Saint John,NB,Saint John,CSD
+1574,Saint Just de Bretenieres,Saint Just de Bretenieres,QC,Saint-Just-de-Bretenières,Manual
+1575,Saint Raphael,Saint Raphael,QC,Saint-Raphaël,Manual
+1576,Saint Stephen,Saint Stephen,NB,Saint Stephen,CSD
+1577,Saint Thomas,Saint Thomas,ON,Saint-Thomas,CSD
+1578,Saint Valentin,Saint Valentin,QC,Saint-Valentin,Manual
+1579,Saint Zephirin de Courval,Saint Zephirin de Courval,QC,Saint-Zephirin-de-Courval,Manual
+1580,,Saint Benoît Labre,QC,Saint-Benoît-Labre,Manual
+1581,,Saint Célestin,QC,Saint-Célestin,Manual
+1582,,Saint Côme,QC,Saint-Côme,Manual
+1583,,Saint Étienne des Grès,QC,Saint-Étienne-des-Grès,Manual
+1584,,Saint Pacôme,QC,Saint-Pacôme,Manual
+1585,,Saint Siméon,QC,Saint-Siméon,Manual
+1586,,Saint Valère,QC,Saint-Valère,Manual
+1587,,Saint Zénon,QC,Saint-Zénon,Manual
+1588,,Saint-Adelme,QC,Saint-Adelme,Manual
+1589,Saint Adelphe,Saint-Adelphe,QC,Saint-Adelphe,CSD
+1590,Saint Adolphe d'Howard,Saint-Adolphe-d'Howard,QC,Saint-Adolphe-d'Howard,CSD
+1591,Saint Adrien,Saint-Adrien,QC,Saint-Adrien,CSD
+1592,Saint Adrien d'Irlande,Saint-Adrien-d'Irlande,QC,Saint-Adrien-d'Irlande,CSD
+1593,Saint Agapit,Saint-Agapit,QC,Saint-Agapit,CSD
+1594,Saint Alban,Saint-Alban,QC,Saint-Alban,CSD
+1595,Saint Albert,Saint-Albert,QC,Saint-Albert,CSD
+1596,Saint Alexandre,Saint-Alexandre,QC,Saint-Alexandre,CSD
+1597,Saint Alexandre de Kamouraska,Saint-Alexandre-de-Kamouraska,QC,Saint-Alexandre-de-Kamouraska,CSD
+1598,Saint Alexis,Saint-Alexis,QC,Saint-Alexis,CSD
+1599,Saint Alexis des Monts,Saint-Alexis-des-Monts,QC,Saint-Alexis-des-Monts,CSD
+1600,Saint Alfred,Saint-Alfred,QC,Saint-Alfred,CSD
+1601,Saint Alphonse,Saint-Alphonse,QC,Saint-Alphonse,CSD
+1602,Saint Alphonse de Granby,Saint-Alphonse-de-Granby,QC,Saint-Alphonse-de-Granby,CSD
+1603,Saint Alphonse Rodriguez,Saint-Alphonse-Rodriguez,QC,Saint-Alphonse-Rodriguez,CSD
+1604,Saint Amable,Saint-Amable,QC,Saint-Amable,CSD
+1605,Saint Ambroise,Saint-Ambroise,QC,Saint-Ambroise,CSD
+1606,Saint Ambroise de Kildare,Saint-Ambroise-de-Kildare,QC,Saint-Ambroise-de-Kildare,CSD
+1607,,Saint-Anaclet-de-Lessard,QC,Saint-Anaclet-de-Lessard,Manual
+1608,Saint Andre Avellin,Saint-André-Avellin,QC,Saint-André-Avellin,CSD
+1609,,Saint-André-d'Argenteuil,QC,Saint-André-d'Argenteuil,Manual
+1610,Saint Anicet,Saint-Anicet,QC,Saint-Anicet,CSD
+1611,Saint Anselme,Saint-Anselme,QC,Saint-Anselme,CSD
+1612,Saint Antoine de l'Isle aux Grues,Saint-Antoine-de-l'Isle-aux-Grues,QC,Saint-Antoine-de-l'Isle-aux-Grues,CSD
+1613,Saint Antoine de Tilly,Saint-Antoine-de-Tilly,QC,Saint-Antoine-de-Tilly,CSD
+1614,Saint Antoine sur Richelieu,Saint-Antoine-sur-Richelieu,QC,Saint-Antoine-sur-Richelieu,CSD
+1615,Saint Antonin,Saint-Antonin,QC,Saint-Antonin,CSD
+1616,Saint Apollinaire,Saint-Apollinaire,QC,Saint-Apollinaire,CSD
+1617,Saint Armand,Saint-Armand,QC,Saint-Armand,CSD
+1618,Saint Arsene,Saint-Arsène,QC,Saint-Arsène,CSD
+1619,Saint Athanase,Saint-Athanase,QC,Saint-Athanase,CSD
+1620,Saint Aubert,Saint-Aubert,QC,Saint-Aubert,CSD
+1621,Saint Augustin,Saint-Augustin,QC,Saint-Augustin,CSD
+1622,Saint Augustin de Desmaures,Saint-Augustin-de-Desmaures,QC,Saint-Augustin-de-Desmaures,CSD
+1623,Saint Augustin de Woburn,Saint-Augustin-de-Woburn,QC,Saint-Augustin-de-Woburn,CSD
+1624,Saint Barnabe Sud,Saint-Barnabé-Sud,QC,Saint-Barnabé-Sud,CSD
+1625,,Saint-Barthélemy,QC,Saint-Barthélemy,Manual
+1626,Saint Basile,Saint-Basile,QC,Saint-Basile,CSD
+1627,Saint Basile le Grand,Saint-Basile-le-Grand,QC,Saint-Basile-le-Grand,CSD
+1628,Saint Benjamin,Saint-Benjamin,QC,Saint-Benjamin,CSD
+1629,,Saint-Benoît-Labre,QC,Saint-Benoît-Labre,Manual
+1630,Saint Bernard,Saint-Bernard,QC,Saint-Bernard,CSD
+1631,Saint Bernard de Lacolle,Saint-Bernard-de-Lacolle,QC,Saint-Bernard-de-Lacolle,CSD
+1632,Saint Bernard de Michaudville,Saint-Bernard-de-Michaudville,QC,Saint-Bernard-de-Michaudville,CSD
+1633,Saint Blaise sur Richelieu,Saint-Blaise-sur-Richelieu,QC,Saint-Blaise-sur-Richelieu,CSD
+1634,Saint Bonaventure,Saint-Bonaventure,QC,Saint-Bonaventure,CSD
+1635,Saint Boniface,Saint-Boniface,QC,Saint-Boniface,CSD
+1636,Saint Bruno,Saint-Bruno,QC,Saint-Bruno,CSD
+1637,Saint Bruno de Guigues,Saint-Bruno-de-Guigues,QC,Saint-Bruno-de-Guigues,CSD
+1638,Saint Bruno de Montarville,Saint-Bruno-de-Montarville,QC,Saint-Bruno-de-Montarville,CSD
+1639,Saint Calixte,Saint-Calixte,QC,Saint-Calixte,CSD
+1640,Saint Camille,Saint-Camille,QC,Saint-Camille,CSD
+1641,Saint Casimir,Saint-Casimir,QC,Saint-Casimir,CSD
+1642,Saint Cesaire,Saint-Césaire,QC,Saint-Césaire,CSD
+1643,Saint Charles Borromee,Saint-Charles-Borromée,QC,Saint-Charles-Borromée,CSD
+1644,Saint Charles de Bellechasse,Saint-Charles-de-Bellechasse,QC,Saint-Charles-de-Bellechasse,CSD
+1645,Saint Charles Garnier,Saint-Charles-Garnier,QC,Saint-Charles-Garnier,CSD
+1646,Saint Charles sur Richelieu,Saint-Charles-sur-Richelieu,QC,Saint-Charles-sur-Richelieu,CSD
+1647,Saint Christophe d'Arthabaska,Saint-Christophe-d'Arthabaska,QC,Saint-Christophe-d'Arthabaska,CSD
+1648,Saint Chrysostome,Saint-Chrysostome,QC,Saint-Chrysostome,CSD
+1649,Saint Claude,Saint-Claude,QC,Saint-Claude,CSD
+1650,,Saint-Cléophas,QC,Saint-Cléophas,Manual
+1651,Saint Clet,Saint-Clet,QC,Saint-Clet,CSD
+1652,Saint Colomban,Saint-Colomban,QC,Saint-Colomban,CSD
+1653,Saint Come,Saint-Côme,QC,Saint-Côme,CSD
+1654,Saint Constant,Saint-Constant,QC,Saint-Constant,CSD
+1655,Saint Cuthbert,Saint-Cuthbert,QC,Saint-Cuthbert,CSD
+1656,Saint Cyprien,Saint-Cyprien,QC,Saint-Cyprien,CSD
+1657,Saint Cyprien de Napierville,Saint-Cyprien-de-Napierville,QC,Saint-Cyprien-de-Napierville,CSD
+1658,Saint Cyrille de Lessard,Saint-Cyrille-de-Lessard,QC,Saint-Cyrille-de-Lessard,CSD
+1659,Saint Cyrille de Wendover,Saint-Cyrille-de-Wendover,QC,Saint-Cyrille-de-Wendover,CSD
+1660,Saint Damase,Saint-Damase,QC,Saint-Damase,CSD
+1661,Saint Damien,Saint-Damien,QC,Saint-Damien,CSD
+1662,Saint Damien de Buckland,Saint-Damien-de-Buckland,QC,Saint-Damien-de-Buckland,CSD
+1663,Saint David,Saint-David,QC,Saint David,CSD
+1664,Saint David,Saint-David,QC,Saint-David,CSD
+1665,Saint David de Falardeau,Saint-David-de-Falardeau,QC,Saint-David-de-Falardeau,CSD
+1666,Saint Denis de Brompton,Saint-Denis-de-Brompton,QC,Saint-Denis-de-Brompton,CSD
+1667,Saint Denis sur Richelieu,Saint-Denis-sur-Richelieu,QC,Saint-Denis-sur-Richelieu,CSD
+1668,Saint Didace,Saint-Didace,QC,Saint-Didace,CSD
+1669,Saint Dominique,Saint-Dominique,QC,Saint-Dominique,CSD
+1670,Saint Donat,Saint-Donat,QC,Saint-Donat,CSD
+1671,,Sainte Angele de Merici,QC,Sainte-Angèle-de-Mérici,Manual
+1672,Sainte Paule,Sainte Paule,QC,Sainte-Paule,Manual
+1673,Sainte Rose de Watford,Sainte Rose de Watford,QC,Sainte-Rose-de-Watford,CSD
+1674,Sainte Adele,Sainte-Adèle,QC,Sainte-Adèle,CSD
+1675,Sainte Agathe de Lotbiniere,Sainte-Agathe-de-Lotbinière,QC,Sainte-Agathe-de-Lotbinière,CSD
+1676,Sainte Agathe des Monts,Sainte-Agathe-des-Monts,QC,Sainte-Agathe-des-Monts,CSD
+1677,,Sainte-Angèle-de-Mérici,QC,Sainte-Angèle-de-Mérici,Manual
+1678,,Sainte-Angèle-de-Monnoir,QC,Sainte-Angèle-de-Monnoir,Manual
+1679,Sainte Anne de Bellevue,Sainte-Anne-de-Bellevue,QC,Sainte-Anne-de-Bellevue,CSD
+1680,Sainte Anne de la Perade,Sainte-Anne-de-la-Pérade,QC,Sainte-Anne-de-la-Pérade,CSD
+1681,Sainte Anne de la Rochelle,Sainte-Anne-de-la-Rochelle,QC,Sainte-Anne-de-la-Rochelle,CSD
+1682,Sainte Anne de Sabrevois,Sainte-Anne-de-Sabrevois,QC,Sainte-Anne-de-Sabrevois,CSD
+1683,Sainte Anne des Lacs,Sainte-Anne-des-Lacs,QC,Sainte-Anne-des-Lacs,CSD
+1684,Sainte Anne des Monts,Sainte-Anne-des-Monts,QC,Sainte-Anne-des-Monts,CSD
+1685,Sainte Anne de Sorel,Sainte-Anne-de-Sorel,QC,Sainte-Anne-de-Sorel,CSD
+1686,Sainte Anne des Plaines,Sainte-Anne-des-Plaines,QC,Sainte-Anne-des-Plaines,CSD
+1687,Sainte Anne du Lac,Sainte-Anne-du-Lac,QC,Sainte-Anne-du-Lac,CSD
+1688,Sainte Apolline de Patton,Sainte-Apolline-de-Patton,QC,Sainte-Apolline-de-Patton,CSD
+1689,Sainte Aurelie,Sainte-Aurélie,QC,Sainte-Aurélie,CSD
+1690,Sainte Barbe,Sainte-Barbe,QC,Sainte-Barbe,CSD
+1691,,Sainte-Béatrix,QC,Sainte-Béatrix,Manual
+1692,Sainte Brigide d'Iberville,Sainte-Brigide-d'Iberville,QC,Sainte-Brigide-d'Iberville,CSD
+1693,Sainte Brigitte de Laval,Sainte-Brigitte-de-Laval,QC,Sainte-Brigitte-de-Laval,CSD
+1694,Sainte Brigitte des Saults,Sainte-Brigitte-des-Saults,QC,Sainte-Brigitte-des-Saults,CSD
+1695,Sainte Catherine,Sainte-Catherine,QC,Sainte-Catherine,CSD
+1696,Sainte Catherine de Hatley,Sainte-Catherine-de-Hatley,QC,Sainte-Catherine-de-Hatley,CSD
+1697,Sainte Catherine de la Jacques Cartier,Sainte-Catherine-de-la-Jacques-Cartier,QC,Sainte-Catherine-de-la-Jacques-Cartier,CSD
+1698,Sainte Cecile de Milton,Sainte-Cécile-de-Milton,QC,Sainte-Cécile-de-Milton,CSD
+1699,Sainte Christine,Sainte-Christine,QC,Sainte-Christine,CSD
+1700,Sainte Christine d'Auvergne,Sainte-Christine-d'Auvergne,QC,Sainte-Christine-d'Auvergne,CSD
+1701,Sainte Claire,Sainte-Claire,QC,Sainte-Claire,CSD
+1702,Sainte Clotilde,Sainte-Clotilde,QC,Sainte-Clotilde,CSD
+1703,Sainte Clotilde de Beauce,Sainte-Clotilde-de-Beauce,QC,Sainte-Clotilde-de-Beauce,CSD
+1704,Sainte Clotilde de Horton,Sainte-Clotilde-de-Horton,QC,Sainte-Clotilde-de-Horton,CSD
+1705,Sainte Croix,Sainte-Croix,QC,Sainte-Croix,CSD
+1706,Saint Edmond de Grantham,Saint-Edmond-de-Grantham,QC,Saint-Edmond-de-Grantham,CSD
+1707,Saint Edmond les Plaines,Saint-Edmond-les-Plaines,QC,Saint-Edmond-les-Plaines,CSD
+1708,,Saint-Édouard,QC,Saint-Édouard,Manual
+1709,,Saint-Édouard-de-Lotbinière,QC,Saint-Édouard-de-Lotbinière,Manual
+1710,Sainte Edwidge de Clifton,Sainte-Edwidge-de-Clifton,QC,Sainte-Edwidge-de-Clifton,CSD
+1711,Sainte elisabeth,Sainte-Élisabeth,QC,Sainte-Élisabeth,CSD
+1712,,Sainte-Émélie-de-l'Énergie,QC,Sainte-Émélie-de-l'Énergie,Manual
+1713,Sainte Eulalie,Sainte-Eulalie,QC,Sainte-Eulalie,CSD
+1714,Sainte Famille,Sainte-Famille,QC,Sainte-Famille,CSD
+1715,Sainte Flavie,Sainte-Flavie,QC,Sainte-Flavie,CSD
+1716,Sainte Florence,Sainte-Florence,QC,Sainte-Florence,Manual
+1717,Sainte Francoise,Sainte-Françoise,QC,Sainte-Françoise,CSD
+1718,Sainte Genevieve de Batiscan,Sainte-Geneviève-de-Batiscan,QC,Sainte-Geneviève-de-Batiscan,CSD
+1719,Sainte Gertrude Manneville,Sainte-Gertrude-Manneville,QC,Sainte-Gertrude-Manneville,CSD
+1720,Sainte Helene de Bagot,Sainte-Hélène-de-Bagot,QC,Sainte-Hélène-de-Bagot,CSD
+1721,,Sainte-Hénédine,QC,Sainte-Hénédine,Manual
+1722,Sainte Jeanne d'Arc,Sainte-Jeanne-d'Arc,QC,Sainte-Jeanne-d'Arc,CSD
+1723,Sainte Julie,Sainte-Julie,QC,Sainte-Julie,CSD
+1724,Sainte Julienne,Sainte-Julienne,QC,Sainte-Julienne,CSD
+1725,Sainte Justine,Sainte-Justine,QC,Sainte-Justine,CSD
+1726,Sainte Justine de Newton,Sainte-Justine-de-Newton,QC,Sainte-Justine-de-Newton,CSD
+1727,,Saint-Éloi,QC,Saint-Éloi,Manual
+1728,Sainte Louise,Sainte-Louise,QC,Sainte-Louise,CSD
+1729,Sainte Luce,Sainte-Luce,QC,Sainte-Luce,CSD
+1730,Sainte Lucie de Beauregard,Sainte-Lucie-de-Beauregard,QC,Sainte-Lucie-de-Beauregard,CSD
+1731,Sainte Lucie des Laurentides,Sainte-Lucie-des-Laurentides,QC,Sainte-Lucie-des-Laurentides,CSD
+1732,Saint Elzear,Saint-Elzéar,QC,Saint-Elzéar,CSD
+1733,Sainte Madeleine,Sainte-Madeleine,QC,Sainte-Madeleine,CSD
+1734,Sainte Marcelline de Kildare,Sainte-Marcelline-de-Kildare,QC,Sainte-Marcelline-de-Kildare,CSD
+1735,Sainte Marguerite,Sainte-Marguerite,QC,Sainte-Marguerite,CSD
+1736,Sainte Marguerite du Lac Masson,Sainte-Marguerite-du-Lac-Masson,QC,Sainte-Marguerite-du-Lac-Masson,CSD
+1737,Sainte Marie,Sainte-Marie,QC,Sainte-Marie,CSD
+1738,Sainte Marie de Blandford,Sainte-Marie-de-Blandford,QC,Sainte-Marie-de-Blandford,CSD
+1739,Sainte Marthe,Sainte-Marthe,QC,Sainte-Marthe,CSD
+1740,Sainte Marthe sur le Lac,Sainte-Marthe-sur-le-Lac,QC,Sainte-Marthe-sur-le-Lac,CSD
+1741,Sainte Martine,Sainte-Martine,QC,Sainte-Martine,CSD
+1742,,Sainte-Mélanie,QC,Sainte-Mélanie,Manual
+1743,Saint emile de Suffolk,Saint-Émile-de-Suffolk,QC,Saint-Émile-de-Suffolk,CSD
+1744,Sainte Monique,Sainte-Monique,QC,Sainte-Monique,CSD
+1745,,Sainte-Perpétue,QC,Sainte-Perpétue,Manual
+1746,,Sainte-Pétronille,QC,Sainte-Pétronille,Manual
+1747,Saint ephrem de Beauce,Saint-Éphrem-de-Beauce,QC,Saint-Éphrem-de-Beauce,CSD
+1748,,Saint-Épiphane,QC,Saint-Épiphane,Manual
+1749,Sainte Rita,Sainte-Rita,QC,Sainte-Rita,CSD
+1750,Sainte Rose de Watford,Sainte-Rose-de-Watford,QC,Sainte-Rose-de-Watford,CSD
+1751,Sainte Rose du Nord,Sainte-Rose-du-Nord,QC,Sainte-Rose-du-Nord,CSD
+1752,Sainte Sabine,Sainte-Sabine,QC,Sainte-Sabine,CSD
+1753,Sainte Sophie,Sainte-Sophie,QC,Sainte-Sophie,CSD
+1754,Sainte Sophie de Levrard,Sainte-Sophie-de-Lévrard,QC,Sainte-Sophie-de-Lévrard,CSD
+1755,,Sainte-Sophie-d'Halifax,QC,Sainte-Sophie-d'Halifax,Manual
+1756,Saint Esprit,Saint-Esprit,QC,Saint-Esprit,CSD
+1757,Sainte Thecle,Sainte-Thècle,QC,Sainte-Thècle,CSD
+1758,Sainte Therese,Sainte-Thérèse,QC,Sainte-Thérèse,CSD
+1759,Saint etienne de Bolton,Saint-Étienne-de-Bolton,QC,Saint-Étienne-de-Bolton,CSD
+1760,,Saint-Étienne-des-Grès,QC,Saint-Étienne-des-Grès,Manual
+1761,Sainte Ursule,Sainte-Ursule,QC,Sainte-Ursule,CSD
+1762,Saint Eustache,Saint-Eustache,QC,Saint-Eustache,CSD
+1763,Sainte Victoire de Sorel,Sainte-Victoire-de-Sorel,QC,Sainte-Victoire-de-Sorel,CSD
+1764,Saint Fabien,Saint-Fabien,QC,Saint-Fabien,CSD
+1765,Saint Fabien de Panet,Saint-Fabien-de-Panet,QC,Saint-Fabien-de-Panet,CSD
+1766,Saint Felicien,Saint-Félicien,QC,Saint-Félicien,CSD
+1767,Saint Felix de Valois,Saint-Félix-de-Valois,QC,Saint-Félix-de-Valois,CSD
+1768,Saint Felix d'Otis,Saint-Félix-d'Otis,QC,Saint-Félix-d'Otis,CSD
+1769,Saint Ferdinand,Saint-Ferdinand,QC,Saint-Ferdinand,CSD
+1770,,Saint-Ferréol-les-Neiges,QC,Saint-Ferréol-les-Neiges,Manual
+1771,Saint Flavien,Saint-Flavien,QC,Saint-Flavien,CSD
+1772,Saint Fortunat,Saint-Fortunat,QC,Saint-Fortunat,CSD
+1773,Saint Francois de Sales,Saint-François-de-Sales,QC,Saint-François-de-Sales,CSD
+1774,Saint Francois du Lac,Saint-François-du-Lac,QC,Saint-François-du-Lac,CSD
+1775,Saint Francois Xavier de Brompton,Saint-François-Xavier-de-Brompton,QC,Saint-François-Xavier-de-Brompton,CSD
+1776,,Saint-Frédéric,QC,Saint-Frédéric,Manual
+1777,Saint Fulgence,Saint-Fulgence,QC,Saint-Fulgence,CSD
+1778,Saint Gabriel,Saint-Gabriel,QC,Saint-Gabriel,CSD
+1779,Saint Gabriel de Brandon,Saint-Gabriel-de-Brandon,QC,Saint-Gabriel-de-Brandon,CSD
+1780,Saint Gabriel de Rimouski,Saint-Gabriel-de-Rimouski,QC,Saint-Gabriel-de-Rimouski,CSD
+1781,Saint Gabriel de Valcartier,Saint-Gabriel-de-Valcartier,QC,Saint-Gabriel-de-Valcartier,CSD
+1782,Saint Gedeon,Saint-Gédéon,QC,Saint-Gédéon,CSD
+1783,,Saint-Gédéon-de-Beauce,QC,Saint-Gédéon-de-Beauce,Manual
+1784,Saint Georges,Saint-Georges,QC,Saint-Georges,CSD
+1785,Saint Georges de Windsor,Saint-Georges-de-Windsor,QC,Saint-Georges-de-Windsor,CSD
+1786,Saint Germain,Saint-Germain,QC,Saint-Germain,CSD
+1787,Saint Germain de Grantham,Saint-Germain-de-Grantham,QC,Saint-Germain-de-Grantham,CSD
+1788,Saint Gervais,Saint-Gervais,QC,Saint-Gervais,CSD
+1789,Saint Gilbert,Saint-Gilbert,QC,Saint-Gilbert,CSD
+1790,Saint Gilles,Saint-Gilles,QC,Saint-Gilles,CSD
+1791,Saint Godefroi,Saint-Godefroi,QC,Saint-Godefroi,CSD
+1792,Saint Guillaume,Saint-Guillaume,QC,Saint-Guillaume,CSD
+1793,Saint Henri,Saint-Henri,QC,Saint-Henri,CSD
+1794,,Saint-Henri-de-Taillon,QC,Saint-Henri-de-Taillon,Manual
+1795,,Saint-Herménégilde,QC,Saint-Herménégilde,Manual
+1796,,Saint-Hilaire-de-Dorset,QC,Saint-Hilaire-de-Dorset,Manual
+1797,Saint Hilarion,Saint-Hilarion,QC,Saint-Hilarion,CSD
+1798,Saint Hippolyte,Saint-Hippolyte,QC,Saint-Hippolyte,CSD
+1799,Saint Honore de Shenley,Saint-Honoré-de-Shenley,QC,Saint-Honoré-de-Shenley,CSD
+1800,Saint Hubert de Riviere du Loup,Saint-Hubert-de-Rivière-du-Loup,QC,Saint-Hubert-de-Rivière-du-Loup,CSD
+1801,Saint Hugues,Saint-Hugues,QC,Saint-Hugues,CSD
+1802,Saint Hyacinthe,Saint-Hyacinthe,QC,Saint-Hyacinthe,CSD
+1803,Saint Ignace de Loyola,Saint-Ignace-de-Loyola,QC,Saint-Ignace-de-Loyola,CSD
+1804,Saint Ignace de Stanbridge,Saint-Ignace-de-Stanbridge,QC,Saint-Ignace-de-Stanbridge,CSD
+1805,Saint Isidore,Saint-Isidore,QC,Saint-Isidore,CSD
+1806,Saint Isidore de Clifton,Saint-Isidore-de-Clifton,QC,Saint-Isidore-de-Clifton,CSD
+1807,Saint Jacques,Saint-Jacques,QC,Saint-Jacques,CSD
+1808,Saint Jacques de Leeds,Saint-Jacques-de-Leeds,QC,Saint-Jacques-de-Leeds,CSD
+1809,Saint Jacques le Mineur,Saint-Jacques-le-Mineur,QC,Saint-Jacques-le-Mineur,CSD
+1810,Saint Janvier de Joly,Saint-Janvier-de-Joly,QC,Saint-Janvier-de-Joly,CSD
+1811,Saint Jean Baptiste,Saint-Jean-Baptiste,QC,Saint-Jean-Baptiste,CSD
+1812,Saint Jean de Dieu,Saint-Jean-de-Dieu,QC,Saint-Jean-de-Dieu,CSD
+1813,Saint Jean de la Lande,Saint-Jean-de-la-Lande,QC,Saint-Jean-de-la-Lande,CSD
+1814,Saint Jean de Matha,Saint-Jean-de-Matha,QC,Saint-Jean-de-Matha,CSD
+1815,Saint Jean Port Joli,Saint-Jean-Port-Joli,QC,Saint-Jean-Port-Joli,CSD
+1816,Saint Jean sur Richelieu,Saint-Jean-sur-Richelieu,QC,Saint-Jean-sur-Richelieu,CSD
+1817,Saint Jerome,Saint-Jérôme,QC,Saint-Jérôme,CSD
+1818,Saint Joachim,Saint-Joachim,QC,Saint-Joachim,CSD
+1819,Saint Joachim de Shefford,Saint-Joachim-de-Shefford,QC,Saint-Joachim-de-Shefford,CSD
+1820,Saint Joseph de Beauce,Saint-Joseph-de-Beauce,QC,Saint-Joseph-de-Beauce,CSD
+1821,Saint Joseph de Coleraine,Saint-Joseph-de-Coleraine,QC,Saint-Joseph-de-Coleraine,CSD
+1822,,Saint-Joseph-de-Kamouraska,QC,Saint-Joseph-de-Kamouraska,Manual
+1823,,Saint-Joseph-de-Lepage,QC,Saint-Joseph-de-Lepage,Manual
+1824,Saint Joseph de Sorel,Saint-Joseph-de-Sorel,QC,Saint-Joseph-de-Sorel,CSD
+1825,Saint Joseph du Lac,Saint-Joseph-du-Lac,QC,Saint-Joseph-du-Lac,CSD
+1826,Saint Jude,Saint-Jude,QC,Saint-Jude,CSD
+1827,Saint Jules,Saint-Jules,QC,Saint-Jules,CSD
+1828,Saint Julien,Saint-Julien,QC,Saint-Julien,CSD
+1829,Saint Juste du Lac,Saint-Juste-du-Lac,QC,Saint-Juste-du-Lac,CSD
+1830,Saint Justin,Saint-Justin,QC,Saint-Justin,CSD
+1831,Saint Lambert,Saint-Lambert,QC,Saint-Lambert,CSD
+1832,Saint Lambert de Lauzon,Saint-Lambert-de-Lauzon,QC,Saint-Lambert-de-Lauzon,CSD
+1833,Saint Lazare,Saint-Lazare,QC,Saint-Lazare,CSD
+1834,Saint Lazare de Bellechasse,Saint-Lazare-de-Bellechasse,QC,Saint-Lazare-de-Bellechasse,CSD
+1835,Saint Leonard d'Aston,Saint-Léonard-d'Aston,QC,Saint-Léonard-d'Aston,CSD
+1836,Saint Leonard de Portneuf,Saint-Léonard-de-Portneuf,QC,Saint-Léonard-de-Portneuf,CSD
+1837,,Saint-Léon-le-Grand,QC,Saint-Léon-le-Grand,Manual
+1838,Saint Liboire,Saint-Liboire,QC,Saint-Liboire,CSD
+1839,Saint Liguori,Saint-Liguori,QC,Saint-Liguori,CSD
+1840,Saint Lin  Laurentides,Saint-Lin--Laurentides,QC,Saint-Lin--Laurentides,CSD
+1841,Saint Louis,Saint-Louis,QC,Saint-Louis,CSD
+1842,Saint Louis de Blandford,Saint-Louis-de-Blandford,QC,Saint-Louis-de-Blandford,CSD
+1843,Saint Louis de Gonzague,Saint-Louis-de-Gonzague,QC,Saint-Louis-de-Gonzague,CSD
+1844,,Saint-Luc-de-Bellechasse,QC,Saint-Luc-de-Bellechasse,Manual
+1845,Saint Luc de Vincennes,Saint-Luc-de-Vincennes,QC,Saint-Luc-de-Vincennes,CSD
+1846,Saint Lucien,Saint-Lucien,QC,Saint-Lucien,CSD
+1847,Saint Ludger,Saint-Ludger,QC,Saint-Ludger,CSD
+1848,Saint Ludger de Milot,Saint-Ludger-de-Milot,QC,Saint-Ludger-de-Milot,CSD
+1849,,Saint-Magloire,QC,Saint-Magloire,Manual
+1850,Saint Malachie,Saint-Malachie,QC,Saint-Malachie,CSD
+1851,Saint Malo,Saint-Malo,QC,Saint-Malo,CSD
+1852,Saint Marc de Figuery,Saint-Marc-de-Figuery,QC,Saint-Marc-de-Figuery,CSD
+1853,Saint Marc des Carrieres,Saint-Marc-des-Carrières,QC,Saint-Marc-des-Carrières,CSD
+1854,Saint Marc du Lac Long,Saint-Marc-du-Lac-Long,QC,Saint-Marc-du-Lac-Long,CSD
+1855,Saint Marcel,Saint-Marcel,QC,Saint-Marcel,CSD
+1856,Saint Marcel de Richelieu,Saint-Marcel-de-Richelieu,QC,Saint-Marcel-de-Richelieu,CSD
+1857,,Saint-Marcellin,QC,Saint-Marcellin,Manual
+1858,Saint Marc sur Richelieu,Saint-Marc-sur-Richelieu,QC,Saint-Marc-sur-Richelieu,CSD
+1859,Saint Martin,Saint-Martin,QC,Saint-Martin,CSD
+1860,Saint Mathias sur Richelieu,Saint-Mathias-sur-Richelieu,QC,Saint-Mathias-sur-Richelieu,CSD
+1861,Saint Mathieu,Saint-Mathieu,QC,Saint-Mathieu,CSD
+1862,Saint Mathieu de Beloeil,Saint-Mathieu-de-Beloeil,QC,Saint-Mathieu-de-Beloeil,CSD
+1863,Saint Mathieu de Rioux,Saint-Mathieu-de-Rioux,QC,Saint-Mathieu-de-Rioux,CSD
+1864,,Saint-Mathieu-d'Harricana,QC,Saint-Mathieu-d'Harricana,Manual
+1865,Saint Mathieu du Parc,Saint-Mathieu-du-Parc,QC,Saint-Mathieu-du-Parc,CSD
+1866,Saint Maurice,Saint-Maurice,QC,Saint-Maurice,CSD
+1867,Saint Michel,Saint-Michel,QC,Saint-Michel,CSD
+1868,Saint Michel de Bellechasse,Saint-Michel-de-Bellechasse,QC,Saint-Michel-de-Bellechasse,CSD
+1869,Saint Michel des Saints,Saint-Michel-des-Saints,QC,Saint-Michel-des-Saints,CSD
+1870,Saint Michel du Squatec,Saint-Michel-du-Squatec,QC,Saint-Michel-du-Squatec,CSD
+1871,Saint Modeste,Saint-Modeste,QC,Saint-Modeste,CSD
+1872,Saint Narcisse,Saint-Narcisse,QC,Saint-Narcisse,CSD
+1873,Saint Narcisse de Beaurivage,Saint-Narcisse-de-Beaurivage,QC,Saint-Narcisse-de-Beaurivage,CSD
+1874,Saint Narcisse de Rimouski,Saint-Narcisse-de-Rimouski,QC,Saint-Narcisse-de-Rimouski,CSD
+1875,Saint Nazaire,Saint-Nazaire,QC,Saint-Nazaire,CSD
+1876,Saint Nazaire d'Acton,Saint-Nazaire-d'Acton,QC,Saint-Nazaire-d'Acton,CSD
+1877,,Saint-Noël,QC,Saint-Noël,Manual
+1878,Saint Norbert,Saint-Norbert,QC,Saint-Norbert,CSD
+1879,Saint Norbert d'Arthabaska,Saint-Norbert-d'Arthabaska,QC,Saint-Norbert-d'Arthabaska,CSD
+1880,,Saint-Odilon-de-Cranbourne,QC,Saint-Odilon-de-Cranbourne,Manual
+1881,Saint Omer,Saint-Omer,QC,Saint-Omer,CSD
+1882,Saint Ours,Saint-Ours,QC,Saint-Ours,CSD
+1883,,Saint-Pacôme,QC,Saint-Pacôme,Manual
+1884,Saint Pamphile,Saint-Pamphile,QC,Saint-Pamphile,CSD
+1885,Saint Pascal,Saint-Pascal,QC,Saint-Pascal,CSD
+1886,Saint Patrice de Beaurivage,Saint-Patrice-de-Beaurivage,QC,Saint-Patrice-de-Beaurivage,CSD
+1887,Saint Patrice de Sherrington,Saint-Patrice-de-Sherrington,QC,Saint-Patrice-de-Sherrington,CSD
+1888,Saint Paul,Saint-Paul,QC,Saint-Paul,CSD
+1889,Saint Paul d'Abbotsford,Saint-Paul-d'Abbotsford,QC,Saint-Paul-d'Abbotsford,CSD
+1890,Saint Paul de la Croix,Saint-Paul-de-la-Croix,QC,Saint-Paul-de-la-Croix,CSD
+1891,Saint Paul de Montminy,Saint-Paul-de-Montminy,QC,Saint-Paul-de-Montminy,CSD
+1892,Saint Paulin,Saint-Paulin,QC,Saint-Paulin,CSD
+1893,,Saint-Philémon,QC,Saint-Philémon,Manual
+1894,Saint Philibert,Saint-Philibert,QC,Saint-Philibert,CSD
+1895,Saint Philippe,Saint-Philippe,QC,Saint-Philippe,CSD
+1896,,Saint-Philippe-de-Néri,QC,Saint-Philippe-de-Néri,Manual
+1897,Saint Pie,Saint-Pie,QC,Saint-Pie,CSD
+1898,Saint Pie de Guire,Saint-Pie-de-Guire,QC,Saint-Pie-de-Guire,CSD
+1899,Saint Pierre,Saint-Pierre,QC,Saint-Pierre,CSD
+1900,Saint Pierre Baptiste,Saint-Pierre-Baptiste,QC,Saint-Pierre-Baptiste,CSD
+1901,Saint Pierre de Broughton,Saint-Pierre-de-Broughton,QC,Saint-Pierre-de-Broughton,Manual
+1902,Saint Pierre de Lamy,Saint-Pierre-de-Lamy,QC,Saint-Pierre-de-Lamy,CSD
+1903,Saint Pierre les Becquets,Saint-Pierre-les-Becquets,QC,Saint-Pierre-les-Becquets,CSD
+1904,Saint Placide,Saint-Placide,QC,Saint-Placide,CSD
+1905,Saint Polycarpe,Saint-Polycarpe,QC,Saint-Polycarpe,CSD
+1906,Saint Prime,Saint-Prime,QC,Saint-Prime,CSD
+1907,Saint Prosper,Saint-Prosper,QC,Saint-Prosper,CSD
+1908,Saint Prosper de Champlain,Saint-Prosper-de-Champlain,QC,Saint-Prosper-de-Champlain,Manual
+1909,Saint Raphael,Saint-Raphaël,QC,Saint-Raphaël,CSD
+1910,Saint Raymond,Saint-Raymond,QC,Saint-Raymond,CSD
+1911,Saint Remi,Saint-Rémi,QC,Saint-Rémi,CSD
+1912,,Saint-René-de-Matane,QC,Saint-René-de-Matane,Manual
+1913,Saint Robert,Saint-Robert,QC,Saint-Robert,CSD
+1914,Saint Robert Bellarmin,Saint-Robert-Bellarmin,QC,Saint-Robert-Bellarmin,CSD
+1915,Saint Roch de l'Achigan,Saint-Roch-de-l'Achigan,QC,Saint-Roch-de-l'Achigan,CSD
+1916,Saint Roch de Richelieu,Saint-Roch-de-Richelieu,QC,Saint-Roch-de-Richelieu,CSD
+1917,Saint Roch des Aulnaies,Saint-Roch-des-Aulnaies,QC,Saint-Roch-des-Aulnaies,CSD
+1918,Saint Roch Ouest,Saint-Roch-Ouest,QC,Saint-Roch-Ouest,Manual
+1919,Saint Romain,Saint-Romain,QC,Saint-Romain,CSD
+1920,Saint Rosaire,Saint-Rosaire,QC,Saint-Rosaire,CSD
+1921,Saint Samuel,Saint-Samuel,QC,Saint-Samuel,CSD
+1922,Saints Anges,Saints-Anges,QC,Saints-Anges,CSD
+1923,Saint Sauveur,Saint-Sauveur,QC,Saint-Sauveur,CSD
+1924,Saint Sebastien,Saint-Sébastien,QC,Saint-Sébastien,CSD
+1925,,Saint-Siméon,QC,Saint-Siméon,Manual
+1926,Saint Simon,Saint-Simon,QC,Saint-Simon,CSD
+1927,Saint Simon les Mines,Saint-Simon-les-Mines,QC,Saint-Simon-les-Mines,Manual
+1928,Saint Sixte,Saint-Sixte,QC,Saint-Sixte,Manual
+1929,Saint Stanislas,Saint-Stanislas,QC,Saint-Stanislas,CSD
+1930,Saint Stanislas de Kostka,Saint-Stanislas-de-Kostka,QC,Saint-Stanislas-de-Kostka,CSD
+1931,Saint Sulpice,Saint-Sulpice,QC,Saint-Sulpice,CSD
+1932,,Saint-Sylvère,QC,Saint-Sylvère,Manual
+1933,Saint Sylvestre,Saint-Sylvestre,QC,Saint-Sylvestre,CSD
+1934,Saint Tharcisius,Saint-Tharcisius,QC,Saint-Tharcisius,CSD
+1935,Saint Theodore d'Acton,Saint-Théodore-d'Acton,QC,Saint-Théodore-d'Acton,CSD
+1936,,Saint-Théophile,QC,Saint-Théophile,Manual
+1937,Saint Thomas,Saint-Thomas,QC,Saint-Thomas,CSD
+1938,Saint Thomas Didyme,Saint-Thomas-Didyme,QC,Saint-Thomas-Didyme,CSD
+1939,Saint Thuribe,Saint-Thuribe,QC,Saint-Thuribe,CSD
+1940,Saint Tite,Saint-Tite,QC,Saint-Tite,CSD
+1941,Saint Tite des Caps,Saint-Tite-des-Caps,QC,Saint-Tite-des-Caps,CSD
+1942,Saint Ubalde,Saint-Ubalde,QC,Saint-Ubalde,CSD
+1943,Saint Ulric,Saint-Ulric,QC,Saint-Ulric,CSD
+1944,Saint Urbain,Saint-Urbain,QC,Saint-Urbain,CSD
+1945,Saint Urbain Premier,Saint-Urbain-Premier,QC,Saint-Urbain-Premier,CSD
+1946,Saint Valentin,Saint-Valentin,QC,Saint-Valentin,CSD
+1947,,Saint-Valère,QC,Saint-Valère,Manual
+1948,Saint Valerien,Saint-Valérien,QC,Saint-Valérien,CSD
+1949,Saint Vallier,Saint-Vallier,QC,Saint-Vallier,CSD
+1950,Saint Vianney,Saint-Vianney,QC,Saint-Vianney,CSD
+1951,Saint Victor,Saint-Victor,QC,Saint-Victor,CSD
+1952,Saint Wenceslas,Saint-Wenceslas,QC,Saint-Wenceslas,CSD
+1953,Saint Zacharie,Saint-Zacharie,QC,Saint-Zacharie,CSD
+1954,Saint Zotique,Saint-Zotique,QC,Saint-Zotique,CSD
+1955,Salaberry de Valleyfield,Salaberry-de-Valleyfield,QC,Salaberry-de-Valleyfield,CSD
+1956,Salluit,Salluit,QC,Salluit,CSD
+1957,Salmo,Salmo,BC,Salmo,CSD
+1958,Salmon Arm,Salmon Arm,BC,Salmon Arm,CSD
+1959,Saltcoats,Saltcoats,SK,Saltcoats,CSD
+1960,Sandspit,Sandspit,BC,Sandspit,PC
+1961,Sangudo,Sangudo,AB,Sangudo,PC
+1962,Sarnia,Sarnia,ON,Sarnia,CSD
+1963,Saskatoon,Saskatoon,SK,Saskatoon,CSD
+1964,Sauble Beach,Sauble Beach,ON,Sauble Beach,Manual
+1965,Saugeen Shores,Saugeen Shores,ON,Saugeen Shores,CSD
+1966,Sault Ste Marie,Sault Ste Marie,ON,Sault Ste. Marie,Manual
+1967,Savona,Savona,BC,Savona,PC
+1968,Sayabec,Sayabec,QC,Sayabec,CSD
+1969,Schefferville,Schefferville,QC,Schefferville,CSD
+1970,Schomberg,Schomberg,ON,Schomberg,Manual
+1971,Schreiber,Schreiber,ON,Schreiber,CSD
+1972,Schuler,Schuler,AB,Schuler,PC
+1973,Scotch Creek,Scotch Creek,BC,Scotch Creek,PC
+1974,Scotland,Scotland,ON,Scotland,Manual
+1975,Scotstown,Scotstown,QC,Scotstown,CSD
+1976,Scott,Scott,QC,Scott,CSD
+1977,Seaforth,Seaforth,ON,Seaforth,Manual
+1978,Sebringville,Sebringville,ON,Sebringville,Manual
+1979,Sechelt,Sechelt,BC,Sechelt,CSD
+1980,Seebe,Seebe,AB,Seebe,Manual
+1981,Seguin,Seguin,ON,Seguin,CSD
+1982,Selkirk,Selkirk,MB,Selkirk,CSD
+1983,Senneterre,Senneterre,QC,Senneterre,CSD
+1984,Senneville,Senneville,QC,Senneville,CSD
+1985,Sept iles,Sept-Îles,QC,Sept-Îles,CSD
+1986,Serpent River,Serpent River,ON,Serpent River,Manual
+1987,Seven Persons,Seven Persons,AB,Seven Persons,Manual
+1988,Severn,Severn,ON,Severn,CSD
+1989,Seymour,Seymour,ON,Seymour,Manual
+1990,Shakespeare,Shakespeare,ON,Shakespeare,PC
+1991,Shallow Lake,Shallow Lake,ON,Shallow Lake,PC
+1992,Shannon,Shannon,QC,Shannon,CSD
+1993,Sharon,Sharon,ON,Sharon,Manual
+1994,Shawinigan,Shawinigan,QC,Shawinigan,CSD
+1995,Shawnigan Lake,Shawnigan Lake,BC,Shawnigan Lake,PC
+1996,Shawville,Shawville,QC,Shawville,CSD
+1997,Shediac,Shediac,NB,Shediac,CSD
+1998,Sheenboro,Sheenboro,QC,Sheenboro,CSD
+1999,Shefford,Shefford,QC,Shefford,CSD
+2000,Shelburne,Shelburne,NS,Shelburne,CSD
+2001,Shelburne,Shelburne,ON,Shelburne,CSD
+2002,Shell Lake,Shell Lake,SK,Shell Lake,CSD
+2003,Shellbrook,Shellbrook,SK,Shellbrook,CSD
+2004,Sherbrooke,Sherbrooke,QC,Sherbrooke,CSD
+2005,Sherwood Park,Sherwood Park,AB,Sherwood Park,Manual
+2006,Shetland,Shetland,ON,Shetland,Manual
+2007,Shigawake,Shigawake,QC,Shigawake,CSD
+2008,Shoal Lake,Shoal Lake,ON,Shoal Lake,PC
+2009,Shuniah,Shuniah,ON,Shuniah,CSD
+2010,Sicamous,Sicamous,BC,Sicamous,CSD
+2011,Sidney,Sidney,BC,Sidney,CSD
+2012,Siksika,Siksika,AB,Siksika,Manual
+2013,Silverton,Silverton,BC,Silverton,CSD
+2014,Singhampton,Singhampton,ON,Singhampton,Manual
+2015,Sioux Lookout,Sioux Lookout,ON,Sioux Lookout,CSD
+2016,Six Nations,Six Nations,ON,Six Nations,Manual
+2017,Slave Lake,Slave Lake,AB,Slave Lake,CSD
+2018,Smeaton,Smeaton,SK,Smeaton,CSD
+2019,Smithers,Smithers,BC,Smithers,CSD
+2020,Smiths Falls,Smiths Falls,ON,Smiths Falls,CSD
+2021,Smoky Lake,Smoky Lake,AB,Smoky Lake,CSD
+2022,Smooth Rock Falls,Smooth Rock Falls,ON,Smooth Rock Falls,CSD
+2023,Snow Lake,Snow Lake,MB,Snow Lake,CSD
+2024,Snowdon,Snowdon,ON,Snowdon,Manual
+2025,Sointula,Sointula,BC,Sointula,PC
+2026,Sombra,Sombra,ON,Sombra,Manual
+2027,Somerville,Somerville,ON,Somerville,PC
+2028,Sooke,Sooke,BC,Sooke,CSD
+2029,Sorel Tracy,Sorel-Tracy,QC,Sorel-Tracy,CSD
+2030,Sorrento,Sorrento,BC,Sorrento,PC
+2031,South Algonquin,South Algonquin,ON,South Algonquin,Manual
+2032,South Bruce,South Bruce,ON,South Bruce,CSD
+2033,South Bruce Peninsula,South Bruce Peninsula,ON,South Bruce Peninsula,CSD
+2034,South Dundas,South Dundas,ON,South Dundas,Manual
+2035,South Frontenac,South Frontenac,ON,South Frontenac,CSD
+2036,South Glengarry,South Glengarry,ON,South Glengarry,CSD
+2037,South Huron,South Huron,ON,South Huron,CSD
+2038,South River,South River,ON,South River,CSD
+2039,South Stormont,South Stormont,ON,South Stormont,Manual
+2040,Southampton,Southampton,ON,Southampton,CSD
+2041,Southey,Southey,SK,Southey,CSD
+2042,Southgate,Southgate,ON,Southgate,CSD
+2043,Southwest Middlesex,Southwest Middlesex,ON,Southwest Middlesex,CSD
+2044,Southwold,Southwold,ON,Southwold,CSD
+2045,Speers,Speers,SK,Speers,CSD
+2046,Spiritwood,Spiritwood,SK,Spiritwood,CSD
+2047,Spragge,Spragge,ON,Spragge,Manual
+2048,Springbrook,Springbrook,AB,Springbrook,Manual
+2049,Springdale,Springdale,NL,Springdale,CSD
+2050,Springwater,Springwater,ON,Springwater,CSD
+2051,Spruce Grove,Spruce Grove,AB,Spruce Grove,CSD
+2052,Spruce View,Spruce View,AB,Spruce View,PC
+2053,Squamish,Squamish,BC,Squamish,CSD
+2054,St Albert,St Albert,AB,St. Albert,CSD
+2055,St Catharines,St Catharines,ON,St. Catharines,CSD
+2056,St Clair,St Clair,ON,St. Clair,CSD
+2057,St George,St George,ON,St. George,CSD
+2058,St Johns,St Johns,NL,St. John's,Manual
+2059,St Lina,St Lina,AB,St. Lina,Manual
+2060,St Mary,St Mary,ON,Is it St. Marys,Manual
+2061,St Marys,St Marys,ON,St. Marys,CSD
+2062,St Michael,St Michael,AB,St. Michael,Manual
+2063,St Paul,St Paul,AB,St. Paul,CSD
+2064,St Thomas,St Thomas,ON,St. Thomas,CSD
+2065,St Vincent,St Vincent,AB,St. Vincent,Manual
+2066,St Walburg,St Walburg,SK,St. Walburg,CSD
+2067,Stanbridge East,Stanbridge East,QC,Stanbridge East,CSD
+2068,Stanbridge Station,Stanbridge Station,QC,Stanbridge Station,CSD
+2069,Stanhope,Stanhope,ON,Stanhope,PC
+2070,Stanstead,Stanstead,QC,Stanstead,CSD
+2071,Stanstead Est,Stanstead-Est,QC,Stanstead-Est,CSD
+2072,Steinbach,Steinbach,MB,Steinbach,CSD
+2073,Stellarton,Stellarton,NS,Stellarton,CSD
+2074,Stephenville,Stephenville,NL,Stephenville,CSD
+2075,Stettler,Stettler,AB,Stettler,CSD
+2076,Stewart,Stewart,BC,Stewart,CSD
+2077,Stewiacke,Stewiacke,NS,Stewiacke,CSD
+2078,Stirling,Stirling,AB,Stirling,CSD
+2079,Stirling Rawdon,Stirling Rawdon,ON,Stirling Rawdon,Manual
+2080,Stoke,Stoke,QC,Stoke,CSD
+2081,Stone Mills,Stone Mills,ON,Stone Mills,CSD
+2082,Stoneham et Tewkesbury,Stoneham-et-Tewkesbury,QC,Stoneham-et-Tewkesbury,CSD
+2083,Stonewall,Stonewall,MB,Stonewall,CSD
+2084,Stoney Creek,Stoney Creek,ON,Stoney Creek,Manual
+2085,Stony Plain,Stony Plain,AB,Stony Plain,CSD
+2086,Stornoway,Stornoway,QC,Stornoway,CSD
+2087,Stouffville,Stouffville,ON,Stouffville,Manual
+2088,Stratford,Stratford,ON,Stratford,CSD
+2089,Stratford,Stratford,PE,Stratford,CSD
+2090,Stratford,Stratford,QC,Stratford,CSD
+2091,Strathmore,Strathmore,AB,Strathmore,CSD
+2092,Strathroy,Strathroy,ON,Strathroy,Manual
+2093,Stukely Sud,Stukely-Sud,QC,Stukely-Sud,CSD
+2094,Sudbury,Sudbury,ON,Sudbury,Manual
+2095,Suffield,Suffield,AB,Suffield,PC
+2096,Summerland,Summerland,BC,Summerland,CSD
+2097,Summerside,Summerside,PE,Summerside,CSD
+2098,Sundre,Sundre,AB,Sundre,CSD
+2099,Sundridge,Sundridge,ON,Sundridge,CSD
+2100,Surrey,Surrey,BC,Surrey,CSD
+2101,Sussex,Sussex,NB,Sussex,CSD
+2102,Sutton,Sutton,ON,Sutton,CSD
+2103,Sutton,Sutton,QC,Sutton,CSD
+2104,Swan Hills,Swan Hills,AB,Swan Hills,CSD
+2105,Swan River,Swan River,MB,Swan River,CSD
+2106,Swift Current,Swift Current,SK,Swift Current,CSD
+2107,Sylvan Lake,Sylvan Lake,AB,Sylvan Lake,CSD
+2108,Taber,Taber,AB,Taber,CSD
+2109,Tadoussac,Tadoussac,QC,Tadoussac,CSD
+2110,Tahsis,Tahsis,BC,Tahsis,CSD
+2111,Taschereau,Taschereau,QC,Taschereau,CSD
+2112,Tasiujaq,Tasiujaq,QC,Tasiujaq,CSD
+2113,Tay,Tay,ON,Tay,CSD
+2114,Tay Valley,Tay Valley,ON,Tay Valley,Manual
+2115,Tecumseh,Tecumseh,ON,Tecumseh,CSD
+2116,Teeswater,Teeswater,ON,Teeswater,PC
+2117,Tehkummah,Tehkummah,ON,Tehkummah,CSD
+2118,Telegraph Cove,Telegraph Cove,BC,Telegraph Cove,Manual
+2119,Telkwa,Telkwa,BC,Telkwa,CSD
+2120,Temagami,Temagami,ON,Temagami,CSD
+2121,Temiscaming,Témiscaming,QC,Témiscaming,CSD
+2122,Temiscamingue,Témiscamingue,QC,Témiscamingue,Manual
+2123,Temiscouata sur le Lac,Temiscouata sur le Lac,QC,Témiscouata-sur-le-Lac,Manual
+2124,Temiskaming Shores,Temiskaming Shores,ON,Temiskaming Shores,CSD
+2125,Terrace,Terrace,BC,Terrace,CSD
+2126,Terrace Bay,Terrace Bay,ON,Terrace Bay,CSD
+2127,Terrasse Vaudreuil,Terrasse-Vaudreuil,QC,Terrasse-Vaudreuil,CSD
+2128,Terrebonne,Terrebonne,QC,Terrebonne,CSD
+2129,Thames Centre,Thames Centre,ON,Thames Centre,CSD
+2130,The Archipelago,The Archipelago,ON,The Archipelago,Manual
+2131,The Blue Mountains,The Blue Mountains,ON,The Blue Mountains,CSD
+2132,The North Shore,The North Shore,ON,The North Shore,CSD
+2133,The Pas,The Pas,MB,The Pas,CSD
+2134,Thedford,Thedford,ON,Thedford,PC
+2135,Thessalon,Thessalon,ON,Thessalon,CSD
+2136,Thetford Mines,Thetford Mines,QC,Thetford Mines,CSD
+2137,Thompson,Thompson,MB,Thompson,CSD
+2138,Thornbury,Thornbury,ON,Thornbury,Manual
+2139,Thorne,Thorne,QC,Thorne,Manual
+2140,Thornhill,Thornhill,BC,Thornhill,Manual
+2141,Thornloe,Thornloe,ON,Thornloe,CSD
+2142,Thorold,Thorold,ON,Thorold,CSD
+2143,Three Hills,Three Hills,AB,Three Hills,CSD
+2144,Thunder Bay,Thunder Bay,ON,Thunder Bay,CSD
+2145,Thurso,Thurso,QC,Thurso,CSD
+2146,Tilbury,Tilbury,ON,Tilbury,Manual
+2147,Tillsonburg,Tillsonburg,ON,Tillsonburg,CSD
+2148,Timiskaming,Timiskaming,ON,Timiskaming,CSD
+2149,Timmins,Timmins,ON,Timmins,CSD
+2150,Tingwick,Tingwick,QC,Tingwick,CSD
+2151,Tiny,Tiny,ON,Tiny,CSD
+2152,Tisdale,Tisdale,SK,Tisdale,CSD
+2153,Tiverton,Tiverton,ON,Tiverton,PC
+2154,Tlell,Tlell,BC,Tlell,PC
+2155,Tobermory,Tobermory,ON,Tobermory,Manual
+2156,Tofield,Tofield,AB,Tofield,CSD
+2157,Tofino,Tofino,BC,Tofino,CSD
+2158,Tompkins,Tompkins,SK,Tompkins,CSD
+2159,Toronto,Toronto,ON,Toronto,CSD
+2160,Tottenham,Tottenham,ON,Tottenham,Manual
+2161,Tourville,Tourville,QC,Tourville,CSD
+2162,Townsend,Townsend,ON,Townsend,Manual
+2163,Trail,Trail,BC,Trail,CSD
+2164,Trent Hills,Trent Hills,ON,Trent Hills,CSD
+2165,Trenton,Trenton,ON,Trenton,CSD
+2166,Trenton,Trenton,NS,Trenton,CSD
+2167,,Très-Saint-Rédempteur,QC,Très-Saint-Rédempteur,Manual
+2168,,Très-Saint-Sacrement,QC,Très-Saint-Sacrement,Manual
+2169,Tring Jonction,Tring-Jonction,QC,Tring-Jonction,CSD
+2170,Trois Pistoles,Trois-Pistoles,QC,Trois-Pistoles,CSD
+2171,Trois Rives,Trois-Rives,QC,Trois-Rives,CSD
+2172,Trois Rivieres,Trois-Rivières,QC,Trois-Rivières,CSD
+2173,Truro,Truro,NS,Truro,CSD
+2174,Tsawwassen,Tsawwassen,BC,Tsawwassen,CSD
+2175,Tumbler Ridge,Tumbler Ridge,BC,Tumbler Ridge,CSD
+2176,Turner Valley,Turner Valley,AB,Turner Valley,CSD
+2177,Turtleford,Turtleford,SK,Turtleford,CSD
+2178,Tweed,Tweed,ON,Tweed,CSD
+2179,Twillingate,Twillingate,NL,Twillingate,CSD
+2180,Two Hills,Two Hills,AB,Two Hills,CSD
+2181,Tyendinaga,Tyendinaga,ON,Tyendinaga,CSD
+2182,Uashat,Uashat,QC,Uashat,CSD
+2183,Ucluelet,Ucluelet,BC,Ucluelet,CSD
+2184,Ulverton,Ulverton,QC,Ulverton,Manual
+2185,Umiujaq,Umiujaq,QC,Umiujaq,CSD
+2186,Unionville,Unionville,ON,Unionville,Manual
+2187,Unity,Unity,SK,Unity,CSD
+2188,Upton,Upton,QC,Upton,CSD
+2189,Uxbridge,Uxbridge,ON,Uxbridge,CSD
+2190,Val Alain,Val-Alain,QC,Val-Alain,CSD
+2191,Val Brillant,Val-Brillant,QC,Val-Brillant,CSD
+2192,Valcourt,Valcourt,QC,Valcourt,CSD
+2193,Val David,Val-David,QC,Val-David,CSD
+2194,Val des Bois,Val-des-Bois,QC,Val-des-Bois,CSD
+2195,Val des Lacs,Val-des-Lacs,QC,Val-des-Lacs,CSD
+2196,Val des Monts,Val-des-Monts,QC,Val-des-Monts,CSD
+2197,Val d'Or,Val-d'Or,QC,Val-d'Or,CSD
+2198,Valemount,Valemount,BC,Valemount,CSD
+2199,Val Joli,Val-Joli,QC,Val-Joli,CSD
+2200,Vallee Jonction,Vallee Jonction,QC,Vallée-Jonction,Manual
+2201,Vallee Jonction,Vallée-Jonction,QC,Vallée-Jonction,CSD
+2202,Valleyview,Valleyview,AB,Valleyview,CSD
+2203,Val Morin,Val-Morin,QC,Val-Morin,CSD
+2204,Val Racine,Val-Racine,QC,Val-Racine,Manual
+2205,Val Saint Gilles,Val-Saint-Gilles,QC,Val-Saint-Gilles,CSD
+2206,Vancouver,Vancouver,BC,Vancouver,CSD
+2207,Vanderhoof,Vanderhoof,BC,Vanderhoof,CSD
+2208,Varennes,Varennes,QC,Varennes,CSD
+2209,Vaudreuil Dorion,Vaudreuil-Dorion,QC,Vaudreuil-Dorion,CSD
+2210,Vaudreuil Soulanges,Vaudreuil-Soulanges,QC,Vaudreuil-Soulanges,Manual
+2211,Vaudreuil sur le Lac,Vaudreuil-sur-le-Lac,QC,Vaudreuil-sur-le-Lac,CSD
+2212,Vaughan,Vaughan,ON,Vaughan,CSD
+2213,Vauxhall,Vauxhall,AB,Vauxhall,CSD
+2214,Vegreville,Vegreville,AB,Vegreville,CSD
+2215,Vercheres,Verchères,QC,Verchères,CSD
+2216,Vermilion,Vermilion,AB,Vermilion,CSD
+2217,Vernon,Vernon,BC,Vernon,CSD
+2218,Vernon Bridge,Vernon Bridge,PE,Vernon Bridge,Manual
+2219,Victoria,Victoria,BC,Victoria,CSD
+2220,Victoriaville,Victoriaville,QC,Victoriaville,CSD
+2221,Viking,Viking,AB,Viking,CSD
+2222,Ville Marie,Ville-Marie,QC,Ville-Marie,CSD
+2223,Villeroy,Villeroy,QC,Villeroy,CSD
+2224,Vilna,Vilna,AB,Vilna,Manual
+2225,Virden,Virden,MB,Virden,CSD
+2226,Viscount,Viscount,SK,Viscount,CSD
+2227,Vonda,Vonda,SK,Vonda,CSD
+2228,Wabaseemoong,Wabaseemoong,ON,Wabaseemoong,Manual
+2229,Wabush,Wabush,NL,Wabush,CSD
+2230,Wahgoshig,Wahgoshig,ON,Wahgoshig,Manual
+2231,Wainfleet,Wainfleet,ON,Wainfleet,CSD
+2232,Wainwright,Wainwright,AB,Wainwright,CSD
+2233,Walkerton,Walkerton,ON,Walkerton,Manual
+2234,Wallace,Wallace,ON,Wallace,Manual
+2235,Wallaceburg,Wallaceburg,ON,Wallaceburg,Manual
+2236,Walsh,Walsh,AB,Walsh,PC
+2237,Waltham,Waltham,QC,Waltham,CSD
+2238,Walton,Walton,ON,Walton,Manual
+2239,Warden,Warden,QC,Warden,CSD
+2240,Warspite,Warspite,AB,Warspite,PC
+2241,Warwick,Warwick,QC,Warwick,CSD
+2242,Warwick,Warwick,ON,Warwick,CSD
+2243,Wasa,Wasa,BC,Wasa,Manual
+2244,Wasaga Beach,Wasaga Beach,ON,Wasaga Beach,CSD
+2245,Waskaganish,Waskaganish,QC,Waskaganish,CSD
+2246,Waskatenau,Waskatenau,AB,Waskatenau,CSD
+2247,Waswanipi,Waswanipi,QC,Waswanipi,CSD
+2248,Water Valley,Water Valley,AB,Water Valley,Manual
+2249,Waterdown,Waterdown,ON,Waterdown,Manual
+2250,Waterford,Waterford,ON,Waterford,CSD
+2251,Waterloo,Waterloo,ON,Waterloo,CSD
+2252,Waterloo,Waterloo,QC,Waterloo,CSD
+2253,Waterville,Waterville,QC,Waterville,CSD
+2254,Watford,Watford,ON,Watford,Manual
+2255,Watson Lake,Watson Lake,YT,Watson Lake,CSD
+2256,Wawa,Wawa,ON,Wawa,CSD
+2257,Webequie,Webequie,ON,Webequie,CSD
+2258,Weedon,Weedon,QC,Weedon,CSD
+2259,Welland,Welland,ON,Welland,CSD
+2260,Wellesley,Wellesley,ON,Wellesley,CSD
+2261,Wellington,Wellington,ON,Wellington,CSD
+2262,Wellington North,Wellington North,ON,Wellington North,CSD
+2263,Wells,Wells,BC,Wells,CSD
+2264,Wembley,Wembley,AB,Wembley,CSD
+2265,Wemindji,Wemindji,QC,Wemindji,CSD
+2266,Wemotaci,Wemotaci,QC,Wemotaci,CSD
+2267,Wendake,Wendake,QC,Wendake,CSD
+2268,Wentworth,Wentworth,QC,Wentworth,CSD
+2269,Wentworth Nord,Wentworth-Nord,QC,Wentworth-Nord,CSD
+2270,West Elgin,West Elgin,ON,West Elgin,CSD
+2271,West Grey,West Grey,ON,West Grey,CSD
+2272,West Gwillimbury,West Gwillimbury,ON,West Gwillimbury,Manual
+2273,West Kelowna,West Kelowna,BC,West Kelowna,CSD
+2274,West Lincoln,West Lincoln,ON,West Lincoln,CSD
+2275,West Nipissing,West Nipissing,ON,West Nipissing,CSD
+2276,West Perth,West Perth,ON,West Perth,CSD
+2277,West Vancouver,West Vancouver,BC,West Vancouver,CSD
+2278,Westbank,Westbank,BC,Westbank,PC
+2279,Westbury,Westbury,QC,Westbury,CSD
+2280,Westlock,Westlock,AB,Westlock,CSD
+2281,Westmount,Westmount,QC,Westmount,CSD
+2282,Westport,Westport,ON,Westport,CSD
+2283,Westville,Westville,NS,Westville,CSD
+2284,Wetaskiwin,Wetaskiwin,AB,Wetaskiwin,CSD
+2285,Weyburn,Weyburn,SK,Weyburn,CSD
+2286,Whapmagoostui,Whapmagoostui,QC,Whapmagoostui,CSD
+2287,Whistler,Whistler,BC,Whistler,CSD
+2288,Whitby,Whitby,ON,Whitby,CSD
+2289,White Fox,White Fox,SK,White Fox,CSD
+2290,White River,White River,ON,White River,CSD
+2291,White Rock,White Rock,BC,White Rock,CSD
+2292,Whitechurch,Whitechurch,ON,Whitechurch,Manual
+2293,Whitecourt,Whitecourt,AB,Whitecourt,CSD
+2294,Whitefish River,Whitefish River,ON,Whitefish River,Manual
+2295,Whitehorse,Whitehorse,YT,Whitehorse,CSD
+2296,Whitemouth,Whitemouth,MB,Whitemouth,CSD
+2297,Whitesand,Whitesand,ON,Whitesand,Manual
+2298,Whitestone,Whitestone,ON,Whitestone,Manual
+2299,Whitewood,Whitewood,SK,Whitewood,CSD
+2300,Wiarton,Wiarton,ON,Wiarton,Manual
+2301,Wickham,Wickham,QC,Wickham,CSD
+2302,Wikwemikong Unceded,Wikwemikong Unceded,ON,Wikwemikong Unceded,CSD
+2303,Williams Lake,Williams Lake,BC,Williams Lake,CSD
+2304,Williamsford,Williamsford,ON,Williamsford,Manual
+2305,Willingdon,Willingdon,AB,Willingdon,Manual
+2306,Willow Bunch,Willow Bunch,SK,Willow Bunch,CSD
+2307,Wilmot,Wilmot,ON,Wilmot,CSD
+2308,Windermere,Windermere,BC,Windermere,PC
+2309,Windsor,Windsor,ON,Windsor,CSD
+2310,Windsor,Windsor,QC,Windsor,CSD
+2311,Windsor,Windsor,NS,Windsor,CSD
+2312,Wingham,Wingham,ON,Wingham,Manual
+2313,Winkler,Winkler,MB,Winkler,CSD
+2314,Winnipeg,Winnipeg,MB,Winnipeg,CSD
+2315,Wolfville,Wolfville,NS,Wolfville,CSD
+2316,Wolinak,Wôlinak,QC,Wôlinak,Manual
+2317,Wollaston,Wollaston,ON,Wollaston,CSD
+2318,Wolseley,Wolseley,SK,Wolseley,CSD
+2319,Woodham,Woodham,ON,Woodham,Manual
+2320,Woodstock,Woodstock,ON,Woodstock,CSD
+2321,Woodstock,Woodstock,NB,Woodstock,CSD
+2322,Woodville,Woodville,ON,Woodville,PC
+2323,Woolwich,Woolwich,ON,Woolwich,CSD
+2324,Worsley,Worsley,AB,Worsley,Manual
+2325,Wotton,Wotton,QC,Wotton,CSD
+2326,Wroxeter,Wroxeter,ON,Wroxeter,Manual
+2327,Wynyard,Wynyard,SK,Wynyard,CSD
+2328,Wyoming,Wyoming,ON,Wyoming,Manual
+2329,Yamachiche,Yamachiche,QC,Yamachiche,CSD
+2330,Yamaska,Yamaska,QC,Yamaska,CSD
+2331,Yarmouth,Yarmouth,NS,Yarmouth,CSD
+2332,Yellowknife,Yellowknife,NT,Yellowknife,CSD
+2333,Yorkton,Yorkton,SK,Yorkton,CSD
+2334,Zama City,Zama City,AB,Zama City,Manual
+2335,Zorra,Zorra,ON,Zorra,CSD
+2336,Zurich,Zurich,ON,Zurich,PC
