@@ -1,6 +1,6 @@
 #' ========================================================
 #' 
-#'    VJ_Update_step2_LoadJSON.R
+#'    VJ_Update_step2_LoadJSON-LMconsort.R
 #' 
 #'    **************************************************
 #'  
@@ -19,7 +19,7 @@
 #'    Vicinity Jobs JSON files loaded, cleaned and exported
 #'    as comma separated files (CSVs).
 #'    
-#'    The "JV_Update_Step1_API.R" file must be executed first.
+#'    The "JV_Update_Step1_API-LMconsort.R" file must be executed first.
 #'    
 #'    
 #'    This script points to download folder used in Step 1.
@@ -54,8 +54,8 @@
 #'     
 #'    Three tables above can be merged by their common "month" and "id" columns.
 #'    
-#'    To load the RDS files use the Load_VJ_data_func.R script, or use the base R 
-#'     command readRDS()
+#'    To load the RDS files use the Load_VJ_data_func-LMconsort.R script, 
+#'    or use the base R command readRDS()
 #'    
 #'    Takes approximaly 60s per month loop to run.
 #'        
