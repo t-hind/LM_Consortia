@@ -50,7 +50,7 @@
 #'    Outputs: RDS files
 #'     1) 'vicinity-', {YYYY-MM}, "-ALL_T.rds       ==> unique job posting data table
 #'     2) 'vicinity-', {YYYY-MM}, "-ALL_skills.rds  ==> job posting items/skills data table
-#'     3) 'vicinity-', {YYYY-MM}, "-ALL_skills.rds  ==> job posting certificates data table
+#'     3) 'vicinity-', {YYYY-MM}, "-ALL_Certs.rds  ==> job posting certificates data table
 #'     
 #'    Three tables above can be merged by their common "month" and "id" columns.
 #'    
@@ -207,7 +207,7 @@ for(m in month_folders){
                                     .(mon_str, is.null(unlist(skills)), is.null(unlist(certs)),
                                       is.character(unlist(skills, recursive = FALSE))), by = id]
    
-   #' (b) Some Skills are Stored as Lists and others as Characters (seeminly if there is 1 vs >1 skills per ID)
+   #' (b) Some Skills are Stored as Lists and others as Characters (seemingly if there is 1 vs >1 skills per ID)
    #'    - make consistent, by createing boolean TRUE if atomic (character) vector
    TT[(!skills_null), skills_char := is.character(skills[[1]][[2]]), by = id]
 
@@ -436,10 +436,10 @@ for(m in month_folders){
    ALL_T[location == "Sainte-Monique",    district := "Lac-Saint-Jean-Est"]  # district only
    ALL_T[location == "Saint-Stanislas",   district := "Francheville"]        # both district and devRegion
    ALL_T[location == "Saint-Louis-de-Gonzague", district := "Beauharnois-Salaberry"] # district only
-   ALL_T[location == "Lindsay",           district := "City of Kawartha Lakes"] # district only
+   ALL_T[location == "Lindsay",           district := "Kawartha Lakes"] # district only
    ALL_T[location == "Lac-Simon",         district := "Papineau"]             # both district and devRegion
    ALL_T[location == "King",              district := "York Regional Municipality"] # district only
-   ALL_T[location == "Kawartha Lakes",    district := "City of Kawartha Lakes"] # district only
+   ALL_T[location == "Kawartha Lakes",    district := "Kawartha Lakes"] # district only
    ALL_T[location == "Blenheim",          district := "Kent County"]           # both district and devRegion
    ALL_T[province == 'ON' & location == 'Caledonia',   district:='Haldimand County']
    ALL_T[province == 'ON' & location == 'Cayuga',      district:='Haldimand County']
