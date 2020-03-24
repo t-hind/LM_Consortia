@@ -502,7 +502,6 @@ for(m in month_folders){
    
    #' Location with two names for the same place
    ALL_T[province == 'ON' & location == 'Saint Thomas', location:=	'St. Thomas']
-   ALL_T[province == 'QC' & location == 'Cap-Sante',    location:=	'Cap-Santé']
    ALL_T[province == 'ON' & location == 'St George',    location:=	'St. George']
    
    #' Correct Typos Found
