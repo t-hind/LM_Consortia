@@ -1,0 +1,90 @@
+# This is just a function version of the VJ1 script which automatically changes the API link to the archive path when needed
+
+vj_read_api <- function(yr, mon, token, out_folder_parent, print_pages = TRUE) {
+  
+  # Converts the month variable to proper format 
+  if(nchar(mon) == 1) {
+    
+    mon <- paste0("0", mon)
+    
+  }
+  
+  # Generating the proper date variables
+  time_period <- paste0(yr, "-", mon)
+  VIC_init <- as.Date(as.yearmon(time_period), 0)
+  VIC_date <- as.Date(as.yearmon(time_period), 1)
+  
+  # Set and create output folder
+  if(!file.exists(out_folder_parent)) {
+    stop(paste0('Cannot find folder\n', out_folder_parent))
+  }
+  
+  vj_data_folder <- file.path(out_folder_parent, time_period)
+  if(!dir.exists(vj_data_folder)) dir.create(vj_data_folder)
+  
+
+
+  # The API link changes every month. Only the last 24 months are not in archive.
+  # Defines the cut off date
+  archive_date <- as.Date(as.yearmon(Sys.Date()) - 2)
+  
+  # This if statement picks the proper path
+  if(VIC_date >= archive_date) {
+    
+    api_path <- paste0("http://canreporting.vicinityjobs.com/api/job-postings?",
+                       "dateFrom=", VIC_init, "&", 
+                       "dateTo=",   VIC_date, 
+                       "&page=1")
+    
+  } else {
+    
+    api_path <- paste0("http://canreporting.vicinityjobs.com/api/archive/job-postings?",
+                       "dateFrom=", VIC_init, "&", 
+                       "dateTo=",   VIC_date, 
+                       "&page=1")
+    
+  }
+  
+  # Accessing the API
+  df = httr::GET(api_path,
+                 
+                 accept_json(),
+                 add_headers(Authorization = paste0("Bearer ", token)))
+  
+  contentdf <- content(df, as = "text", encoding = "UTF-8")
+  jsondf    <- jsonlite::fromJSON(contentdf)
+  next.page <- jsondf$links$`next`
+  
+  # Initialize downlaod with first page of download
+  write(toJSON(jsondf, auto_unbox = TRUE), file = file.path(vj_data_folder, "1.json"))
+  
+  
+  i = 2
+  
+  # loop over paginated JSON files
+  while(!is.null(next.page)){
+    
+    # This just lets you choose if you want to print the pages or not
+    if(print_pages){
+    
+      print(i)
+    
+    }
+      
+    df = GET(url = next.page,
+             accept_json(),
+             add_headers(Authorization = paste0("Bearer ",token)))
+    
+    contentdf <- content(df, as = "text", encoding = "UTF-8")
+    jsondf    <- jsonlite::fromJSON(contentdf)
+    next.page <- jsondf$links$`next`
+    
+    #' export files as "{i}.json"
+    write(toJSON(jsondf, auto_unbox = TRUE), 
+          file =  file.path(vj_data_folder, paste0(i,".json")))
+    
+    i = i+1
+    
+  }
+  
+}
